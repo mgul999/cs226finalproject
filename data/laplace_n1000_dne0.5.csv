@@ -1,4 +1,4 @@
-,n,epsilon,dn_espsilon,num_queries,percent_reconstructed
+,n,epsilon,dn_epsilon,num_queries,percent_reconstructed
 0,1000,0.30000000000000004,0.5,400,0.698
 1,1000,0.30000000000000004,0.5,450,0.72
 2,1000,0.30000000000000004,0.5,500,0.7170000000000001
