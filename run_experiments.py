@@ -8,11 +8,12 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 from mpl_toolkits.mplot3d import Axes3D
-import pulp as plt
+import pulp as pl
 from mechanisms import *
 from utils import *
+from attacks import *
 
-_default_dn_args = {"epsilon": 0.5, "should_log": False}
+default_dn_args = {"epsilon": 0.5, "should_log": False}
 
 # Run a set of experiments. See usage below.
 def run_experiment(
@@ -25,7 +26,7 @@ def run_experiment(
     output_filename=None,
     attacker=dinur_nissim,
     data_maker=generate_bit_data,
-    attacker_args=_default_dn_args,
+    attacker_args=default_dn_args,
 ):
 
     results_df = pd.DataFrame(
@@ -87,7 +88,7 @@ def run_experiment(
     if output_filename:
         if should_log:
             print(f"Writing results to {output_filename}")
-        results_df.to_csv(output_filename, encoding="utf-8", header="true")
+        results_df.to_csv("./data/" + output_filename, encoding="utf-8", header="true")
     return results_df
 
 

@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 from mpl_toolkits.mplot3d import Axes3D
-import pulp as plt
+import pulp as pl
 from mechanisms import *
 from utils import *
 from run_experiments import *
@@ -69,7 +69,7 @@ def epsilon_thresshold(df, threshold=0.95, title="Queries vs. Epsilon"):
         .apply(lambda d: d[d.num_queries == d.num_queries.min()])
     )
 
-    return plot_single_x_multiple_subsets(
+    plot_single_x_multiple_subsets(
         df=tres,
         filter_cond=lambda x: x,
         x="epsilon",
