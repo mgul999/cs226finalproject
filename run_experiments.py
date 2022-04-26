@@ -12,43 +12,49 @@ import pulp as plt
 from mechanisms import *
 from utils import *
 
-_default_dn_args = {"epsilon" : 0.5, "should_log" : False}
+_default_dn_args = {"epsilon": 0.5, "should_log": False}
 
 # Run a set of experiments. See usage below.
-def run_experiment(ns,
-                   mechanism_class,
-                   mech_args,
-                   dn_epsilon,
-                   t_generators,
-                   should_log=True,
-                   output_filename = None,
-                   attacker=dinur_nissim,
-                   data_maker = generate_bit_data,
-                   attacker_args=_default_dn_args):
+def run_experiment(
+    ns,
+    mechanism_class,
+    mech_args,
+    dn_epsilon,
+    t_generators,
+    should_log=True,
+    output_filename=None,
+    attacker=dinur_nissim,
+    data_maker=generate_bit_data,
+    attacker_args=_default_dn_args,
+):
 
-    results_df =  pd.DataFrame(columns=["n",
-                              *list(mech_args[0].keys()),
-                              "dn_epsilon",
-                              "num_queries",
-                              "percent_reconstructed",
-                              "mechanism_error"])
+    results_df = pd.DataFrame(
+        columns=[
+            "n",
+            *list(mech_args[0].keys()),
+            "dn_epsilon",
+            "num_queries",
+            "percent_reconstructed",
+            "mechanism_error",
+        ]
+    )
 
     def make_entry(mech_arg, n, dn_epsilon, t, pc_reconstructed, mechanism_error):
-        res = {x : [mech_arg[x]] for x in mech_arg.keys()}
-        res.update (
+        res = {x: [mech_arg[x]] for x in mech_arg.keys()}
+        res.update(
             {
-                "n" : [n],
-                "dn_epsilon" : [dn_epsilon],
-                "num_queries" : [t],
-                "percent_reconstructed" : pc_reconstructed,
-                "mechanism_error" : mechanism_error
+                "n": [n],
+                "dn_epsilon": [dn_epsilon],
+                "num_queries": [t],
+                "percent_reconstructed": pc_reconstructed,
+                "mechanism_error": mechanism_error,
             }
         )
         return pd.DataFrame.from_dict(res)
 
-    total = len(ns)*len(mech_args)*len(t_generators)
+    total = len(ns) * len(mech_args) * len(t_generators)
 
-    if(should_log):
+    if should_log:
         print(f"Running {total} experiments")
 
     so_far = 0
@@ -65,7 +71,14 @@ def run_experiment(ns,
                 t = int(t_generator(n))
 
                 # Append new results
-                entry = make_entry(mech_arg, n, dn_epsilon, t, percent_reconstructed(data, result), mech_acc)
+                entry = make_entry(
+                    mech_arg,
+                    n,
+                    dn_epsilon,
+                    t,
+                    percent_reconstructed(data, result),
+                    mech_acc,
+                )
                 results_df = pd.concat([results_df, entry], ignore_index=True)
                 so_far += 1
                 if should_log:
@@ -74,12 +87,14 @@ def run_experiment(ns,
     if output_filename:
         if should_log:
             print(f"Writing results to {output_filename}")
-        results_df.to_csv(output_filename, encoding='utf-8', header='true')
+        results_df.to_csv(output_filename, encoding="utf-8", header="true")
     return results_df
+
 
 def read_results(filename):
     "Read results written by the function above"
-    return pd.read_csv (filename, index_col=0)
+    return pd.read_csv(filename, index_col=0)
+
 
 # General plotting functions
 def plot_3d(df, filter_cond, x1, x2, y, labels, title):
@@ -98,16 +113,19 @@ def plot_3d(df, filter_cond, x1, x2, y, labels, title):
     plt.show()
     return ax
 
-def plot_single_x_multiple_subsets(df,
-                                   filter_cond,
-                                   x,
-                                   y,
-                                   divide_on,
-                                   dividers = None,
-                                   xlabel = "x",
-                                   ylabel = "y",
-                                   legend_formatter = lambda n : n,
-                                   title = "My graph"):
+
+def plot_single_x_multiple_subsets(
+    df,
+    filter_cond,
+    x,
+    y,
+    divide_on,
+    dividers=None,
+    xlabel="x",
+    ylabel="y",
+    legend_formatter=lambda n: n,
+    title="My graph",
+):
     """
     Todo: Explain this
     """
@@ -119,10 +137,9 @@ def plot_single_x_multiple_subsets(df,
     else:
         for div in dividers:
             s = df[df[divide_on] == div]
-            ax.plot(s[x], s[y], label = legend_formatter(div))
+            ax.plot(s[x], s[y], label=legend_formatter(div))
         ax.legend()
     ax.set_title(title, fontsize=15)
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
     return ax
-

@@ -7,7 +7,8 @@ def percent_reconstructed(data, results):
     What percentage of entries in data match those in results.
     """
     n = len(data)
-    return 1 - ((np.count_nonzero(data!=results))/n)
+    return 1 - ((np.count_nonzero(data != results)) / n)
+
 
 class ConstantFunction:
     # This should not be a class but it did something else before

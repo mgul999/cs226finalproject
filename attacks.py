@@ -12,7 +12,14 @@ import pulp as plt
 from mechanisms import *
 from utils import *
 
-def dinur_nissim(mech, gen_t = lambda n : n * (math.log2(n) ** 2),  epsilon = 0.5, should_log = False, **kwargs):
+
+def dinur_nissim(
+    mech,
+    gen_t=lambda n: n * (math.log2(n) ** 2),
+    epsilon=0.5,
+    should_log=False,
+    **kwargs,
+):
     """
     Perform a dinur_nissim attack on the dataset, mediated by mech, a Mechanism object.
 
@@ -26,7 +33,7 @@ def dinur_nissim(mech, gen_t = lambda n : n * (math.log2(n) ** 2),  epsilon = 0.
 
     def generate_query():
         # Generate a random subset of [n] by generating a list of bits and convert to indices
-        q_j = np.random.randint(0,2,n)
+        q_j = np.random.randint(0, 2, n)
         indices2 = q_j.nonzero()
         return (q_j, indices2)
 
@@ -45,19 +52,26 @@ def dinur_nissim(mech, gen_t = lambda n : n * (math.log2(n) ** 2),  epsilon = 0.
     b_ub = np.array(b_ub)
     # Rounding Phase: round the results of the LP into integers
 
-    if(should_log):
+    if should_log:
         print(f"Solving LP with {len(b_ub)} constraints")
 
-    program_result = linprog(np.zeros(n), np.vstack(A_ub), b_ub, bounds=(0,1), options={"maxiter" : 3000000000})
+    program_result = linprog(
+        np.zeros(n),
+        np.vstack(A_ub),
+        b_ub,
+        bounds=(0, 1),
+        options={"maxiter": 3000000000},
+    )
 
-    if(should_log):
+    if should_log:
         print(f"Done w/ LP")
     round_vector = np.vectorize(round, otypes=[int])
     return round_vector(program_result["x"])
 
 
-
-def cn19(mech, gen_t = lambda n : n * (math.log2(n) ** 2), k = 1, should_log = False, **kwargs):
+def cn19(
+    mech, gen_t=lambda n: n * (math.log2(n) ** 2), k=1, should_log=False, **kwargs
+):
     """
     Performs the attack from CN19 on the dataset, mediated by mech, a Mechanism object.
 
@@ -75,7 +89,7 @@ def cn19(mech, gen_t = lambda n : n * (math.log2(n) ** 2), k = 1, should_log = F
 
     def generate_query():
         # Generate a random subset of [n] by generating a list of bits and convert to indices
-        q_j = np.random.randint(0,2,n)
+        q_j = np.random.randint(0, 2, n)
         indices2 = q_j.nonzero()
         return (q_j, indices2)
 
@@ -97,18 +111,18 @@ def cn19(mech, gen_t = lambda n : n * (math.log2(n) ** 2), k = 1, should_log = F
         # Add a variable to represent the sum of a_q - q(x')
         temp_sum = pl.LpVariable("temp_sum" + str(i))
         # Add the constraints such that abs_e_qs will become the absolute value of a_q - q(x')
-        lp += (temp_sum == (answer - pl.LpAffineExpression(q_x)))
-        lp += (abs_e_q >= temp_sum)
-        lp += (abs_e_q >= -temp_sum)
+        lp += temp_sum == (answer - pl.LpAffineExpression(q_x))
+        lp += abs_e_q >= temp_sum
+        lp += abs_e_q >= -temp_sum
 
     # We want our objective to be the sum of |e_q| over all queries
     lp += pl.lpSum(abs_e_qs)
 
-    if(should_log):
+    if should_log:
         print(f"Solving LP with {len(b_ub)} constraints")
     status = lp.solve(pl.PULP_CBC_CMD(msg=False))
 
-    if(should_log):
+    if should_log:
         print(f"Done w/ LP")
     # Return the rounded values
     return [round(pl.value(x)) for x in xs]
