@@ -1,0 +1,1001 @@
+,Age Group,Zip Code - 3 digits,Gender,Race,Ethnicity,Length of Stay,Type of Admission,Patient Disposition,Discharge Year,CCS Diagnosis Code,CCS Procedure Code,APR DRG Code,APR MDC Code,APR Severity of Illness Code,APR Risk of Mortality
+0,18 to 29,100,F,White,Spanish/Hispanic,4,Urgent,Home or Self Care,2015,189,134,540,14,1,Minor
+1,0 to 17,112,F,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,58,71,421,10,3,Minor
+2,0 to 17,104,M,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,124,30,93,3,2,Minor
+3,50 to 69,115,F,White,Not Span/Hispanic,6,Elective,Home or Self Care,2015,14,78,221,6,2,Minor
+4,50 to 69,100,F,White,Spanish/Hispanic,39,Elective,Expired,2015,237,49,4,5,4,Extreme
+5,18 to 29,100,M,Black/African American,Spanish/Hispanic,1,Elective,Home or Self Care,2015,256,0,861,23,1,Minor
+6,30 to 49,112,F,Multi-racial,Not Span/Hispanic,2,Elective,Home or Self Care,2015,181,0,560,14,3,Minor
+7,30 to 49,100,M,Other Race,Not Span/Hispanic,4,Emergency,Home or Self Care,2015,657,0,753,19,1,Minor
+8,30 to 49,100,M,Other Race,Not Span/Hispanic,1,Emergency,Short-term Hospital,2015,106,0,201,5,2,Minor
+9,70 or Older,104,M,Other Race,Not Span/Hispanic,9,Elective,Home w/ Home Health Services,2015,254,213,860,23,2,Moderate
+10,50 to 69,OOS,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+11,50 to 69,100,M,Other Race,Multi-ethnic,5,Elective,Home or Self Care,2015,101,61,175,5,1,Minor
+12,70 or Older,115,M,White,Not Span/Hispanic,9,Elective,Home w/ Home Health Services,2015,237,52,173,5,3,Major
+13,0 to 17,104,M,Black/African American,Not Span/Hispanic,120 +,Newborn,Cancer Center or Children's Hospital,2015,218,85,588,15,4,Major
+14,50 to 69,105,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,101,47,192,5,1,Minor
+15,0 to 17,112,F,White,Not Span/Hispanic,120 +,Newborn,Cancer Center or Children's Hospital,2015,218,61,588,15,4,Extreme
+16,0 to 17,104,M,Other Race,Not Span/Hispanic,120 +,Newborn,Skilled Nursing Home,2015,218,61,588,15,4,Major
+17,50 to 69,100,F,Other Race,Not Span/Hispanic,120 +,Urgent,Inpatient Rehabilitation Facility,2015,58,20,405,10,4,Extreme
+18,0 to 17,117,F,Other Race,Spanish/Hispanic,120 +,Urgent,Home w/ Home Health Services,2015,217,35,90,3,4,Extreme
+19,50 to 69,104,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,2,Minor
+20,50 to 69,117,M,White,Not Span/Hispanic,12,Elective,Home or Self Care,2015,101,45,175,5,3,Moderate
+21,50 to 69,107,F,Other Race,Not Span/Hispanic,3,Elective,Short-term Hospital,2015,203,152,302,8,1,Minor
+22,50 to 69,OOS,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,237,154,315,8,2,Minor
+23,50 to 69,105,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,158,321,8,1,Minor
+24,0 to 17,112,M,Other Race,Spanish/Hispanic,120 +,Urgent,Home w/ Home Health Services,2015,221,61,588,15,4,Extreme
+25,70 or Older,125,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,204,152,302,8,1,Minor
+26,0 to 17,112,M,Multi-racial,Not Span/Hispanic,120 +,Newborn,Home w/ Home Health Services,2015,218,50,583,15,4,Extreme
+27,70 or Older,104,M,White,Not Span/Hispanic,120 +,Urgent,Home w/ Home Health Services,2015,254,213,860,23,4,Major
+28,0 to 17,112,F,Other Race,Not Span/Hispanic,120 +,Urgent,Home w/ Home Health Services,2015,213,216,952,5,4,Major
+29,0 to 17,104,F,Other Race,Multi-ethnic,120 +,Newborn,Home w/ Home Health Services,2015,218,61,588,15,4,Extreme
+30,0 to 17,104,M,Multi-racial,Spanish/Hispanic,1,Elective,Home or Self Care,2015,124,30,97,3,1,Minor
+31,0 to 17,112,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,134,35,115,3,3,Minor
+32,0 to 17,112,F,Multi-racial,Not Span/Hispanic,105,Urgent,Home or Self Care,2015,237,176,2,5,3,Extreme
+33,0 to 17,100,F,Other Race,Spanish/Hispanic,120 +,Newborn,Home w/ Home Health Services,2015,218,223,591,15,4,Extreme
+34,70 or Older,100,F,Multi-racial,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,1,Minor
+35,30 to 49,112,M,Other Race,Not Span/Hispanic,120 +,Urgent,Expired,2015,108,49,4,5,4,Extreme
+36,50 to 69,109,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,162,309,8,1,Minor
+37,50 to 69,109,M,Black/African American,Not Span/Hispanic,2,Elective,Inpatient Rehabilitation Facility,2015,203,152,302,8,1,Minor
+38,70 or Older,115,M,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+39,0 to 17,104,M,Other Race,Not Span/Hispanic,100,Urgent,Home w/ Home Health Services,2015,213,231,591,15,3,Major
+40,0 to 17,100,F,Black/African American,Not Span/Hispanic,112,Newborn,Home or Self Care,2015,218,216,593,15,3,Moderate
+41,0 to 17,100,F,Black/African American,Not Span/Hispanic,100,Newborn,Home or Self Care,2015,218,216,593,15,4,Major
+42,30 to 49,104,F,White,Not Span/Hispanic,120 +,Emergency,Home w/ Home Health Services,2015,108,176,2,5,4,Extreme
+43,50 to 69,112,M,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,205,158,304,8,1,Minor
+44,0 to 17,104,F,White,Spanish/Hispanic,110,Newborn,Home or Self Care,2015,218,228,589,15,3,Major
+45,50 to 69,100,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+46,0 to 17,,M,Multi-racial,Not Span/Hispanic,120 +,Newborn,Home or Self Care,2015,218,109,631,15,4,Extreme
+47,50 to 69,103,M,White,Not Span/Hispanic,9,Elective,Home or Self Care,2015,237,43,175,5,2,Moderate
+48,50 to 69,117,F,White,Not Span/Hispanic,81,Elective,Inpatient Rehabilitation Facility,2015,38,1,680,17,4,Extreme
+49,18 to 29,OOS,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,94,22,93,3,1,Minor
+50,0 to 17,104,M,Other Race,Spanish/Hispanic,120 +,Newborn,Home w/ Home Health Services,2015,218,28,633,15,4,Major
+51,50 to 69,OOS,F,Other Race,Not Span/Hispanic,120 +,Urgent,Home or Self Care,2015,15,72,221,6,4,Major
+52,70 or Older,100,F,Other Race,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,153,301,8,2,Minor
+53,0 to 17,OOS,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,136,164,92,3,1,Minor
+54,0 to 17,104,F,Multi-racial,Multi-ethnic,110,Newborn,Home w/ Home Health Services,2015,218,216,593,15,4,Major
+55,70 or Older,104,M,Black/African American,Spanish/Hispanic,3,Elective,Skilled Nursing Home,2015,211,160,317,8,3,Moderate
+56,50 to 69,112,F,Black/African American,Not Span/Hispanic,88,Urgent,Home w/ Home Health Services,2015,108,176,2,5,4,Extreme
+57,50 to 69,104,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,203,153,301,8,2,Moderate
+58,70 or Older,,F,White,Spanish/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+59,0 to 17,OOS,F,White,Not Span/Hispanic,81,Newborn,Home or Self Care,2015,218,220,602,15,3,Minor
+60,0 to 17,OOS,F,White,Not Span/Hispanic,74,Newborn,Home or Self Care,2015,218,216,602,15,3,Minor
+61,0 to 17,104,M,Other Race,Multi-ethnic,102,Newborn,Home w/ Home Health Services,2015,218,216,593,15,3,Moderate
+62,50 to 69,125,M,Black/African American,Not Span/Hispanic,70,Urgent,Inpatient Rehabilitation Facility,2015,130,42,121,4,4,Major
+63,50 to 69,103,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,83,227,53,1,1,Minor
+64,50 to 69,107,F,White,Not Span/Hispanic,120 +,Urgent,Home w/ Home Health Services,2015,63,70,661,16,4,Extreme
+65,70 or Older,100,M,Other Race,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+66,50 to 69,113,F,White,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,6,176,1,7,3,Major
+67,70 or Older,109,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,170,124,513,13,1,Moderate
+68,30 to 49,OOS,F,Other Race,Not Span/Hispanic,82,Urgent,Home or Self Care,2015,238,67,229,6,3,Moderate
+69,70 or Older,100,F,White,Multi-ethnic,5,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+70,50 to 69,100,F,White,Not Span/Hispanic,66,Urgent,Inpatient Rehabilitation Facility,2015,39,64,3,17,4,Major
+71,70 or Older,119,M,White,Not Span/Hispanic,83,Urgent,Home w/ Home Health Services,2015,100,44,4,5,4,Extreme
+72,30 to 49,100,F,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+73,0 to 17,OOS,M,White,Spanish/Hispanic,76,Newborn,Home or Self Care,2015,218,216,609,15,4,Major
+74,30 to 49,105,F,Other Race,Not Span/Hispanic,68,Urgent,Home or Self Care,2015,131,34,5,4,4,Major
+75,50 to 69,105,M,White,Spanish/Hispanic,60,Urgent,Home or Self Care,2015,238,99,711,18,4,Extreme
+76,0 to 17,100,M,Other Race,Not Span/Hispanic,104,Emergency,Home or Self Care,2015,97,176,2,5,4,Major
+77,50 to 69,112,M,Other Race,Not Span/Hispanic,68,Emergency,Expired,2015,100,34,4,5,4,Extreme
+78,0 to 17,OOS,F,White,Not Span/Hispanic,90,Newborn,Expired,2015,218,90,631,15,4,Extreme
+79,70 or Older,112,M,Other Race,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,237,152,302,8,2,Minor
+80,70 or Older,104,M,Black/African American,Spanish/Hispanic,2,Elective,Skilled Nursing Home,2015,203,152,302,8,2,Moderate
+81,70 or Older,OOS,F,White,Not Span/Hispanic,40,Elective,Skilled Nursing Home,2015,237,43,163,5,4,Extreme
+82,70 or Older,104,F,White,Spanish/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,2,Minor
+83,0 to 17,103,F,Multi-racial,Not Span/Hispanic,120 +,Urgent,Home w/ Home Health Services,2015,108,176,2,5,4,Extreme
+84,0 to 17,100,M,White,Multi-ethnic,120 +,Newborn,Cancer Center or Children's Hospital,2015,218,231,589,15,3,Major
+85,0 to 17,104,M,White,Spanish/Hispanic,120 +,Newborn,Cancer Center or Children's Hospital,2015,218,228,631,15,4,Extreme
+86,0 to 17,OOS,F,Other Race,Not Span/Hispanic,54,Urgent,Home w/ Home Health Services,2015,213,49,609,15,4,Major
+87,0 to 17,112,M,Multi-racial,Not Span/Hispanic,120 +,Newborn,Home w/ Home Health Services,2015,218,56,630,15,4,Major
+88,0 to 17,104,M,White,Multi-ethnic,71,Newborn,Cancer Center or Children's Hospital,2015,218,99,631,15,4,Major
+89,70 or Older,OOS,F,White,Not Span/Hispanic,62,Elective,Home w/ Home Health Services,2015,45,224,693,17,4,Extreme
+90,30 to 49,OOS,F,Other Race,Not Span/Hispanic,93,Urgent,Home w/ Home Health Services,2015,130,176,2,4,4,Extreme
+91,50 to 69,112,M,Other Race,Spanish/Hispanic,83,Urgent,Expired,2015,237,83,660,16,4,Extreme
+92,50 to 69,OOS,F,White,Not Span/Hispanic,2,Urgent,Home or Self Care,2015,259,167,362,9,2,Moderate
+93,70 or Older,100,M,White,Not Span/Hispanic,64,Elective,Home w/ Home Health Services,2015,254,213,860,23,3,Major
+94,0 to 17,112,F,Multi-racial,Not Span/Hispanic,120 +,Newborn,Home or Self Care,2015,218,216,593,15,4,Major
+95,0 to 17,112,F,Multi-racial,Not Span/Hispanic,94,Newborn,Home or Self Care,2015,218,216,593,15,4,Major
+96,70 or Older,OOS,F,White,Not Span/Hispanic,53,Elective,Home or Self Care,2015,39,65,690,17,4,Major
+97,50 to 69,112,M,Other Race,Not Span/Hispanic,18,Elective,Home w/ Home Health Services,2015,254,174,860,23,2,Moderate
+98,70 or Older,113,M,White,Not Span/Hispanic,7,Elective,Skilled Nursing Home,2015,96,43,162,5,2,Moderate
+99,70 or Older,100,F,Other Race,Not Span/Hispanic,53,Emergency,Medicare Cert Long Term Care Hospital,2015,115,34,4,5,4,Extreme
+100,30 to 49,104,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,170,124,513,13,1,Minor
+101,50 to 69,113,F,Other Race,Not Span/Hispanic,54,Urgent,Expired,2015,39,65,690,17,4,Extreme
+102,70 or Older,OOS,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,96,43,175,5,4,Moderate
+103,0 to 17,112,F,Multi-racial,Not Span/Hispanic,61,Newborn,Home w/ Home Health Services,2015,218,216,612,15,1,Minor
+104,70 or Older,104,F,Other Race,Not Span/Hispanic,6,Elective,Home w/ Home Health Services,2015,203,152,302,8,3,Major
+105,50 to 69,109,F,White,Not Span/Hispanic,6,Elective,Home or Self Care,2015,83,227,53,1,3,Minor
+106,50 to 69,104,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+107,70 or Older,109,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,2,Moderate
+108,50 to 69,OOS,M,Other Race,Not Span/Hispanic,7,Elective,Home or Self Care,2015,83,227,53,1,1,Minor
+109,50 to 69,105,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,237,152,302,8,2,Minor
+110,0 to 17,103,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,217,161,320,8,2,Minor
+111,70 or Older,105,M,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Moderate
+112,50 to 69,100,F,White,Spanish/Hispanic,2,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+113,50 to 69,104,M,Other Race,Not Span/Hispanic,58,Urgent,Expired,2015,131,34,5,4,4,Extreme
+114,50 to 69,109,F,Black/African American,Not Span/Hispanic,1,Elective,Home or Self Care,2015,169,124,513,13,1,Minor
+115,70 or Older,113,M,White,Not Span/Hispanic,11,Elective,Home w/ Home Health Services,2015,96,43,163,5,3,Moderate
+116,70 or Older,109,F,White,Not Span/Hispanic,61,Elective,Inpatient Rehabilitation Facility,2015,238,50,4,21,4,Extreme
+117,30 to 49,109,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,2,Minor
+118,70 or Older,108,F,White,Not Span/Hispanic,49,Emergency,Expired,2015,133,36,121,4,4,Extreme
+119,70 or Older,100,M,Other Race,Spanish/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,154,315,8,2,Minor
+120,0 to 17,115,M,Other Race,Spanish/Hispanic,120 +,Urgent,Home or Self Care,2015,213,174,167,5,4,Extreme
+121,0 to 17,100,M,Multi-racial,Not Span/Hispanic,120 +,Newborn,Expired,2015,218,50,583,15,4,Extreme
+122,70 or Older,OOS,M,Other Race,Not Span/Hispanic,15,Elective,Skilled Nursing Home,2015,217,158,304,8,3,Moderate
+123,70 or Older,OOS,F,Other Race,Spanish/Hispanic,3,Elective,Inpatient Rehabilitation Facility,2015,203,152,302,8,1,Minor
+124,70 or Older,OOS,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,138,33,222,6,1,Minor
+125,50 to 69,115,M,White,Not Span/Hispanic,15,Elective,Home w/ Home Health Services,2015,18,84,260,7,4,Major
+126,50 to 69,114,M,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,103,61,120,4,3,Moderate
+127,70 or Older,107,F,White,Not Span/Hispanic,9,Elective,Home w/ Home Health Services,2015,127,36,120,4,2,Minor
+128,50 to 69,109,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,213,49,167,5,2,Minor
+129,50 to 69,105,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+130,70 or Older,OOS,F,Other Race,Not Span/Hispanic,59,Urgent,Expired,2015,17,99,260,7,4,Extreme
+131,50 to 69,104,M,White,Spanish/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,161,313,8,1,Minor
+132,50 to 69,109,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,158,321,8,1,Minor
+133,70 or Older,OOS,F,Other Race,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,232,154,315,8,2,Minor
+134,50 to 69,OOS,F,White,Spanish/Hispanic,3,Elective,Home or Self Care,2015,237,152,302,8,2,Minor
+135,70 or Older,100,M,Other Race,Not Span/Hispanic,4,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+136,30 to 49,OOS,F,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+137,50 to 69,109,F,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,204,152,302,8,2,Minor
+138,70 or Older,OOS,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,203,152,302,8,1,Minor
+139,70 or Older,105,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,1,Minor
+140,50 to 69,105,M,Other Race,Not Span/Hispanic,72,Urgent,Expired,2015,663,88,951,7,4,Extreme
+141,70 or Older,OOS,F,White,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,127,36,120,4,3,Minor
+142,70 or Older,115,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,51,12,651,16,2,Minor
+143,50 to 69,129,M,White,Not Span/Hispanic,18,Elective,Home w/ Home Health Services,2015,151,176,1,7,4,Extreme
+144,50 to 69,105,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,2,Minor
+145,50 to 69,104,F,Black/African American,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,237,147,320,8,2,Minor
+146,70 or Older,107,M,White,Not Span/Hispanic,39,Urgent,Expired,2015,109,1,4,1,4,Extreme
+147,70 or Older,OOS,M,White,Not Span/Hispanic,24,Elective,Skilled Nursing Home,2015,101,49,4,5,4,Extreme
+148,70 or Older,103,M,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,205,158,304,8,1,Minor
+149,50 to 69,OOS,F,White,Not Span/Hispanic,6,Elective,Inpatient Rehabilitation Facility,2015,205,158,304,8,3,Minor
+150,50 to 69,OOS,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,111,61,21,1,2,Minor
+151,50 to 69,101,M,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,237,153,301,8,3,Minor
+152,50 to 69,100,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,111,61,21,1,2,Minor
+153,50 to 69,103,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+154,18 to 29,OOS,F,Other Race,Not Span/Hispanic,45,Elective,Home or Self Care,2015,44,1,21,1,1,Minor
+155,30 to 49,104,M,Other Race,Spanish/Hispanic,42,Urgent,Skilled Nursing Home,2015,109,71,45,1,4,Extreme
+156,0 to 17,107,F,Multi-racial,Not Span/Hispanic,120 +,Newborn,Cancer Center or Children's Hospital,2015,218,61,630,15,4,Major
+157,70 or Older,105,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,205,158,321,8,1,Minor
+158,50 to 69,104,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,143,86,220,6,2,Minor
+159,70 or Older,OOS,F,White,Not Span/Hispanic,32,Elective,Expired,2015,17,99,260,7,4,Extreme
+160,18 to 29,100,F,White,Not Span/Hispanic,39,Elective,Home or Self Care,2015,659,218,750,19,2,Minor
+161,50 to 69,117,M,White,Not Span/Hispanic,56,Urgent,Inpatient Rehabilitation Facility,2015,100,49,161,5,4,Extreme
+162,0 to 17,107,F,White,Spanish/Hispanic,89,Urgent,Cancer Center or Children's Hospital,2015,131,34,5,4,4,Major
+163,0 to 17,117,F,Other Race,Not Span/Hispanic,72,Urgent,Expired,2015,103,94,951,5,4,Extreme
+164,0 to 17,112,F,White,Not Span/Hispanic,42,Urgent,Home w/ Home Health Services,2015,131,216,130,4,4,Extreme
+165,18 to 29,113,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,47,33,98,3,1,Minor
+166,70 or Older,OOS,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,154,315,8,2,Minor
+167,50 to 69,125,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+168,70 or Older,OOS,M,Other Race,Not Span/Hispanic,28,Elective,Skilled Nursing Home,2015,101,44,163,5,4,Extreme
+169,50 to 69,104,F,Other Race,Not Span/Hispanic,9,Elective,Skilled Nursing Home,2015,237,158,304,8,3,Moderate
+170,30 to 49,100,F,White,Not Span/Hispanic,5,Elective,Skilled Nursing Home,2015,237,158,304,8,1,Minor
+171,50 to 69,100,F,White,Not Span/Hispanic,2,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+172,0 to 17,100,M,Black/African American,Not Span/Hispanic,59,Newborn,Home w/ Home Health Services,2015,218,216,602,15,3,Minor
+173,70 or Older,104,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,2,Minor
+174,50 to 69,104,M,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,2,Minor
+175,0 to 17,113,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+176,30 to 49,104,F,Other Race,Spanish/Hispanic,2,Elective,Home or Self Care,2015,83,227,53,1,3,Minor
+177,50 to 69,100,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,203,153,301,8,1,Minor
+178,50 to 69,125,M,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,155,96,221,6,1,Minor
+179,30 to 49,115,F,Other Race,Not Span/Hispanic,6,Elective,Home or Self Care,2015,58,74,403,10,3,Major
+180,70 or Older,121,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,74,403,10,2,Moderate
+181,70 or Older,100,F,Black/African American,Multi-ethnic,38,Elective,Skilled Nursing Home,2015,47,104,443,11,4,Extreme
+182,50 to 69,OOS,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,29,114,484,12,2,Minor
+183,30 to 49,104,F,Other Race,Spanish/Hispanic,2,Elective,Home or Self Care,2015,58,94,403,10,2,Minor
+184,70 or Older,109,M,White,Not Span/Hispanic,63,Urgent,Inpatient Rehabilitation Facility,2015,108,176,2,5,4,Extreme
+185,70 or Older,OOS,F,White,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,47,78,221,6,3,Moderate
+186,30 to 49,OOS,F,Black/African American,Not Span/Hispanic,5,Elective,Home or Self Care,2015,46,125,519,13,2,Minor
+187,30 to 49,100,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,58,94,403,10,1,Minor
+188,0 to 17,104,M,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+189,30 to 49,101,F,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,58,94,403,10,1,Minor
+190,30 to 49,112,M,Black/African American,Not Span/Hispanic,2,Urgent,Home or Self Care,2015,58,94,403,10,1,Minor
+191,50 to 69,104,F,Black/African American,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+192,30 to 49,100,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+193,50 to 69,109,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+194,30 to 49,100,F,Black/African American,Spanish/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,2,Minor
+195,30 to 49,104,M,Other Race,Not Span/Hispanic,9,Elective,Home w/ Home Health Services,2015,58,74,403,10,3,Minor
+196,18 to 29,112,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,94,403,10,1,Minor
+197,30 to 49,OOS,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,74,403,10,2,Moderate
+198,0 to 17,104,F,White,Spanish/Hispanic,2,Elective,Home or Self Care,2015,83,227,53,1,1,Minor
+199,50 to 69,121,F,White,Not Span/Hispanic,31,Elective,Home w/ Home Health Services,2015,103,61,4,4,4,Major
+200,70 or Older,100,F,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,170,129,514,13,1,Minor
+201,18 to 29,,F,Other Race,Not Span/Hispanic,30,Urgent,Home w/ Home Health Services,2015,2,43,4,18,4,Extreme
+202,50 to 69,111,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,47,12,401,10,1,Minor
+203,50 to 69,105,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,138,94,220,6,1,Minor
+204,30 to 49,114,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,169,124,513,13,1,Minor
+205,30 to 49,104,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,46,125,519,13,2,Minor
+206,30 to 49,100,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+207,70 or Older,OOS,M,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,19,178,136,4,2,Moderate
+208,70 or Older,100,F,White,Not Span/Hispanic,34,Urgent,Home or Self Care,2015,657,0,754,19,2,Minor
+209,50 to 69,113,M,White,Not Span/Hispanic,28,Elective,Home w/ Home Health Services,2015,58,78,950,8,4,Extreme
+210,70 or Older,117,M,White,Not Span/Hispanic,33,Urgent,Skilled Nursing Home,2015,47,12,404,10,4,Extreme
+211,50 to 69,OOS,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,205,158,321,8,1,Minor
+212,30 to 49,113,F,White,Not Span/Hispanic,95,Urgent,Home w/ Home Health Services,2015,237,176,2,4,4,Extreme
+213,50 to 69,100,F,White,Not Span/Hispanic,69,Urgent,Inpatient Rehabilitation Facility,2015,3,83,720,18,4,Extreme
+214,70 or Older,OOS,F,White,Not Span/Hispanic,2,Elective,Skilled Nursing Home,2015,203,154,315,8,2,Moderate
+215,50 to 69,104,F,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,154,315,8,2,Minor
+216,50 to 69,100,F,White,Not Span/Hispanic,32,Urgent,Home or Self Care,2015,657,0,753,19,2,Minor
+217,30 to 49,OOS,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,143,86,227,6,2,Minor
+218,70 or Older,OOS,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,2,Minor
+219,50 to 69,OOS,F,Other Race,Not Span/Hispanic,9,Elective,Inpatient Rehabilitation Facility,2015,111,61,21,1,3,Minor
+220,50 to 69,106,F,White,Not Span/Hispanic,31,Urgent,Expired,2015,42,216,240,6,4,Extreme
+221,50 to 69,105,F,Other Race,Not Span/Hispanic,10,Elective,Skilled Nursing Home,2015,237,158,304,8,3,Major
+222,50 to 69,117,M,Other Race,Not Span/Hispanic,49,Urgent,Hospice - Medical Facility,2015,2,4,710,18,4,Extreme
+223,50 to 69,100,M,White,Multi-ethnic,2,Elective,Home w/ Home Health Services,2015,29,114,480,12,1,Minor
+224,50 to 69,104,F,White,Spanish/Hispanic,2,Elective,Home w/ Home Health Services,2015,58,74,403,10,1,Minor
+225,50 to 69,135,F,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,83,227,53,1,3,Minor
+226,50 to 69,105,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,45,224,693,17,2,Moderate
+227,50 to 69,OOS,M,Other Race,Not Span/Hispanic,42,Urgent,Home w/ Home Health Services,2015,103,29,952,5,4,Major
+228,70 or Older,100,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+229,18 to 29,100,M,Other Race,Not Span/Hispanic,63,Urgent,Home w/ Home Health Services,2015,659,0,750,19,2,Minor
+230,30 to 49,100,M,White,Multi-ethnic,32,Urgent,Home or Self Care,2015,657,218,751,19,3,Minor
+231,50 to 69,108,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,237,152,302,8,2,Minor
+232,70 or Older,100,M,Black/African American,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+233,18 to 29,104,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,189,134,540,14,1,Minor
+234,70 or Older,OOS,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,237,162,320,8,2,Minor
+235,50 to 69,,F,Other Race,Not Span/Hispanic,63,Emergency,Short-term Hospital,2015,96,43,162,5,4,Extreme
+236,70 or Older,104,F,Multi-racial,Not Span/Hispanic,3,Elective,Home or Self Care,2015,81,2,21,1,1,Minor
+237,50 to 69,126,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,237,154,315,8,2,Minor
+238,70 or Older,104,M,Other Race,Spanish/Hispanic,5,Elective,Home or Self Care,2015,101,44,166,5,3,Major
+239,0 to 17,100,M,Multi-racial,Not Span/Hispanic,44,Elective,Home or Self Care,2015,213,56,4,5,4,Extreme
+240,70 or Older,,F,Black/African American,Spanish/Hispanic,44,Urgent,Home w/ Home Health Services,2015,146,78,221,6,4,Extreme
+241,70 or Older,100,F,White,Multi-ethnic,5,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+242,0 to 17,115,F,Multi-racial,Not Span/Hispanic,7,Elective,Home or Self Care,2015,209,158,303,8,3,Moderate
+243,70 or Older,OOS,M,White,Not Span/Hispanic,76,Emergency,Inpatient Rehabilitation Facility,2015,96,34,4,5,4,Extreme
+244,50 to 69,105,M,White,Not Span/Hispanic,38,Urgent,Expired,2015,6,88,279,7,4,Extreme
+245,0 to 17,104,M,White,Multi-ethnic,62,Newborn,Home w/ Home Health Services,2015,218,216,589,15,1,Minor
+246,0 to 17,112,F,Other Race,Not Span/Hispanic,68,Urgent,Inpatient Rehabilitation Facility,2015,131,34,5,4,4,Extreme
+247,30 to 49,113,F,Other Race,Not Span/Hispanic,28,Urgent,Home w/ Home Health Services,2015,202,176,2,4,4,Major
+248,50 to 69,100,F,Other Race,Spanish/Hispanic,5,Elective,Home w/ Home Health Services,2015,205,158,304,8,2,Minor
+249,30 to 49,115,F,White,Not Span/Hispanic,23,Urgent,Psychiatric Hospital or Unit of Hosp,2015,670,54,759,19,3,Moderate
+250,0 to 17,105,F,Other Race,Not Span/Hispanic,73,Newborn,Home w/ Home Health Services,2015,218,216,591,15,3,Major
+251,50 to 69,120,F,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,146,78,221,6,4,Moderate
+252,50 to 69,OOS,M,Other Race,Not Span/Hispanic,67,Emergency,Expired,2015,108,49,161,5,4,Extreme
+253,70 or Older,112,M,White,Not Span/Hispanic,35,Elective,Skilled Nursing Home,2015,18,99,260,7,3,Major
+254,70 or Older,OOS,F,White,Not Span/Hispanic,46,Elective,Home w/ Home Health Services,2015,17,99,260,7,4,Major
+255,50 to 69,103,M,Other Race,Not Span/Hispanic,42,Urgent,Expired,2015,97,71,193,5,4,Extreme
+256,70 or Older,OOS,F,Other Race,Not Span/Hispanic,34,Elective,Home or Self Care,2015,108,178,194,5,3,Moderate
+257,18 to 29,105,M,White,Not Span/Hispanic,23,Urgent,Home w/ Home Health Services,2015,237,64,3,5,2,Minor
+258,50 to 69,109,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,58,74,403,10,2,Minor
+259,30 to 49,117,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,46,124,519,13,2,Minor
+260,30 to 49,114,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+261,50 to 69,100,M,Multi-racial,Multi-ethnic,1,Elective,Home or Self Care,2015,29,231,480,12,1,Minor
+262,30 to 49,117,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,155,96,223,6,3,Moderate
+263,30 to 49,OOS,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,95,1,21,1,1,Minor
+264,50 to 69,OOS,M,White,Not Span/Hispanic,27,Urgent,Home w/ Home Health Services,2015,108,47,191,5,3,Major
+265,50 to 69,104,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,51,12,401,10,1,Moderate
+266,50 to 69,OOS,F,White,Not Span/Hispanic,4,Elective,Inpatient Rehabilitation Facility,2015,203,153,301,8,1,Minor
+267,50 to 69,OOS,M,Black/African American,Not Span/Hispanic,4,Elective,Home w/ Home Health Services,2015,237,148,313,8,1,Minor
+268,70 or Older,OOS,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,203,154,315,8,2,Minor
+269,18 to 29,104,M,Black/African American,Not Span/Hispanic,89,Urgent,Home or Self Care,2015,659,218,750,19,2,Minor
+270,70 or Older,105,F,White,Not Span/Hispanic,18,Elective,Skilled Nursing Home,2015,18,99,260,7,2,Minor
+271,30 to 49,OOS,F,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,256,0,861,23,1,Minor
+272,50 to 69,OOS,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,25,124,510,13,1,Minor
+273,70 or Older,OOS,F,White,Not Span/Hispanic,2,Emergency,Home or Self Care,2015,96,43,175,5,4,Moderate
+274,50 to 69,OOS,M,White,Not Span/Hispanic,72,Urgent,Inpatient Rehabilitation Facility,2015,108,49,161,5,4,Extreme
+275,30 to 49,105,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,158,321,8,1,Minor
+276,30 to 49,112,F,Other Race,Not Span/Hispanic,32,Urgent,Home or Self Care,2015,657,218,753,19,4,Moderate
+277,50 to 69,OOS,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+278,50 to 69,105,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,3,Moderate
+279,30 to 49,112,F,Other Race,Not Span/Hispanic,33,Urgent,Home w/ Home Health Services,2015,152,99,260,7,4,Major
+280,50 to 69,100,M,Multi-racial,Not Span/Hispanic,27,Urgent,Home or Self Care,2015,659,213,750,19,2,Minor
+281,30 to 49,112,F,White,Not Span/Hispanic,88,Urgent,Home w/ Home Health Services,2015,237,36,121,4,4,Major
+282,50 to 69,103,M,White,Not Span/Hispanic,21,Urgent,Home or Self Care,2015,122,39,137,4,4,Major
+283,70 or Older,104,M,Other Race,Not Span/Hispanic,22,Elective,Skilled Nursing Home,2015,254,213,860,23,3,Moderate
+284,50 to 69,OOS,M,Other Race,Not Span/Hispanic,45,Urgent,Home w/ Home Health Services,2015,96,43,4,5,4,Major
+285,18 to 29,125,F,White,Not Span/Hispanic,28,Urgent,Home or Self Care,2015,2,50,4,18,4,Extreme
+286,0 to 17,104,F,White,Spanish/Hispanic,31,Newborn,Home or Self Care,2015,218,216,612,15,2,Minor
+287,30 to 49,104,M,Black/African American,Spanish/Hispanic,66,Elective,Home w/ Home Health Services,2015,214,74,220,6,4,Extreme
+288,50 to 69,114,F,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,47,12,401,10,2,Minor
+289,18 to 29,120,M,White,Not Span/Hispanic,31,Urgent,Home or Self Care,2015,7,178,138,4,4,Major
+290,18 to 29,OOS,M,Other Race,Not Span/Hispanic,14,Urgent,Home or Self Care,2015,133,197,142,4,2,Moderate
+291,30 to 49,OOS,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,74,403,10,2,Minor
+292,50 to 69,100,F,Black/African American,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,58,74,403,10,1,Minor
+293,70 or Older,OOS,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,115,52,173,5,1,Minor
+294,30 to 49,OOS,M,White,Not Span/Hispanic,4,Elective,Home w/ Home Health Services,2015,155,96,223,6,2,Minor
+295,30 to 49,OOS,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,47,78,221,6,1,Minor
+296,50 to 69,104,M,Black/African American,Multi-ethnic,1,Elective,Home w/ Home Health Services,2015,29,114,480,12,1,Minor
+297,50 to 69,109,F,White,Not Span/Hispanic,10,Emergency,Home or Self Care,2015,237,43,175,5,2,Moderate
+298,50 to 69,125,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,212,153,301,8,2,Minor
+299,18 to 29,100,M,Other Race,Spanish/Hispanic,37,Elective,Home or Self Care,2015,83,9,21,1,2,Minor
+300,18 to 29,OOS,F,Other Race,Not Span/Hispanic,25,Urgent,Short-term Hospital,2015,109,2,4,1,4,Major
+301,50 to 69,OOS,F,Other Race,Not Span/Hispanic,16,Urgent,Skilled Nursing Home,2015,133,185,142,4,3,Extreme
+302,30 to 49,114,F,Other Race,Not Span/Hispanic,77,Urgent,Home w/ Home Health Services,2015,181,134,540,14,3,Moderate
+303,0 to 17,114,F,Black/African American,Not Span/Hispanic,54,Urgent,Home w/ Home Health Services,2015,151,176,1,7,4,Major
+304,50 to 69,100,F,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,2,Moderate
+305,50 to 69,112,F,Black/African American,Not Span/Hispanic,27,Urgent,Home or Self Care,2015,133,176,2,4,4,Major
+306,50 to 69,OOS,F,Other Race,Not Span/Hispanic,31,Urgent,Home or Self Care,2015,237,88,279,7,4,Extreme
+307,50 to 69,OOS,F,White,Not Span/Hispanic,32,Urgent,Medicare Cert Long Term Care Hospital,2015,237,34,5,4,4,Major
+308,30 to 49,105,F,Black/African American,Not Span/Hispanic,22,Urgent,Home or Self Care,2015,254,62,860,23,3,Major
+309,50 to 69,100,M,Other Race,Spanish/Hispanic,6,Elective,Home w/ Home Health Services,2015,203,152,302,8,3,Moderate
+310,50 to 69,107,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+311,70 or Older,109,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,238,74,220,6,2,Minor
+312,30 to 49,100,F,Other Race,Multi-ethnic,2,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+313,0 to 17,112,F,White,Not Span/Hispanic,25,Urgent,Home or Self Care,2015,35,198,41,1,3,Moderate
+314,50 to 69,100,F,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,146,78,221,6,1,Minor
+315,50 to 69,114,M,Multi-racial,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+316,50 to 69,OOS,F,Multi-racial,Not Span/Hispanic,3,Elective,Home or Self Care,2015,24,167,362,9,1,Moderate
+317,50 to 69,104,F,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,24,175,362,9,1,Moderate
+318,30 to 49,100,M,Other Race,Not Span/Hispanic,18,Elective,Home w/ Home Health Services,2015,99,105,440,11,3,Major
+319,70 or Older,100,M,Other Race,Spanish/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,2,Moderate
+320,70 or Older,110,M,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,237,158,304,8,3,Major
+321,70 or Older,104,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+322,50 to 69,OOS,M,White,Spanish/Hispanic,2,Elective,Home or Self Care,2015,259,231,443,11,2,Minor
+323,18 to 29,104,M,Other Race,Spanish/Hispanic,6,Elective,Home or Self Care,2015,99,105,440,11,2,Minor
+324,0 to 17,104,M,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,83,199,53,1,1,Minor
+325,30 to 49,OOS,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,259,104,443,11,2,Minor
+326,50 to 69,109,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,203,152,302,8,1,Minor
+327,30 to 49,OOS,F,White,Not Span/Hispanic,4,Elective,Home w/ Home Health Services,2015,158,105,440,11,2,Minor
+328,70 or Older,117,M,White,Not Span/Hispanic,39,Urgent,Skilled Nursing Home,2015,237,216,143,4,4,Extreme
+329,50 to 69,OOS,F,Multi-racial,Not Span/Hispanic,10,Elective,Home w/ Home Health Services,2015,99,105,440,11,3,Minor
+330,50 to 69,113,F,White,Not Span/Hispanic,5,Elective,Skilled Nursing Home,2015,203,152,302,8,2,Minor
+331,50 to 69,125,M,White,Not Span/Hispanic,4,Elective,Home w/ Home Health Services,2015,45,224,693,17,2,Moderate
+332,50 to 69,100,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,14,87,229,6,2,Moderate
+333,50 to 69,113,M,White,Not Span/Hispanic,12,Elective,Home w/ Home Health Services,2015,42,99,260,7,3,Moderate
+334,70 or Older,OOS,F,White,Spanish/Hispanic,9,Elective,Inpatient Rehabilitation Facility,2015,96,43,162,5,3,Major
+335,18 to 29,117,M,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,96,61,163,5,2,Moderate
+336,30 to 49,104,M,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,160,112,443,11,1,Minor
+337,50 to 69,100,M,Other Race,Spanish/Hispanic,2,Elective,Home w/ Home Health Services,2015,237,152,302,8,2,Minor
+338,50 to 69,OOS,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,94,26,91,3,2,Minor
+339,30 to 49,OOS,F,White,Not Span/Hispanic,6,Elective,Home or Self Care,2015,155,96,223,6,1,Moderate
+340,30 to 49,OOS,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,47,12,401,10,1,Minor
+341,70 or Older,105,M,Black/African American,Not Span/Hispanic,21,Urgent,Hospice - Medical Facility,2015,114,172,180,5,4,Extreme
+342,50 to 69,104,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+343,50 to 69,100,M,Other Race,Spanish/Hispanic,2,Elective,Home w/ Home Health Services,2015,212,152,302,8,1,Minor
+344,50 to 69,113,M,Other Race,Not Span/Hispanic,5,Elective,Home or Self Care,2015,13,74,220,6,2,Minor
+345,50 to 69,OOS,M,Other Race,Not Span/Hispanic,2,Elective,Skilled Nursing Home,2015,203,153,301,8,1,Minor
+346,70 or Older,106,M,Other Race,Not Span/Hispanic,49,Urgent,Medicare Cert Long Term Care Hospital,2015,115,34,4,5,4,Extreme
+347,50 to 69,112,M,White,Not Span/Hispanic,20,Urgent,Medicare Cert Long Term Care Hospital,2015,103,47,191,5,3,Moderate
+348,30 to 49,,M,White,Not Span/Hispanic,24,Urgent,Home w/ Home Health Services,2015,56,176,2,4,4,Extreme
+349,0 to 17,100,F,Black/African American,Spanish/Hispanic,18,Newborn,Home w/ Home Health Services,2015,218,231,612,15,1,Minor
+350,0 to 17,100,F,Black/African American,Spanish/Hispanic,31,Newborn,Home w/ Home Health Services,2015,218,231,607,15,2,Minor
+351,30 to 49,100,M,White,Not Span/Hispanic,38,Elective,Home w/ Home Health Services,2015,254,213,860,23,3,Major
+352,0 to 17,104,M,Other Race,Not Span/Hispanic,30,Newborn,Home or Self Care,2015,218,216,622,15,3,Minor
+353,0 to 17,107,F,Other Race,Not Span/Hispanic,51,Newborn,Home w/ Home Health Services,2015,218,223,607,15,3,Moderate
+354,50 to 69,118,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,143,86,227,6,2,Minor
+355,30 to 49,114,F,Black/African American,Not Span/Hispanic,16,Urgent,Home w/ Home Health Services,2015,237,47,191,5,3,Moderate
+356,50 to 69,100,F,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+357,50 to 69,109,F,White,Not Span/Hispanic,22,Urgent,Inpatient Rehabilitation Facility,2015,151,61,950,7,4,Moderate
+358,30 to 49,125,M,Black/African American,Not Span/Hispanic,1,Elective,Home or Self Care,2015,256,222,861,23,1,Minor
+359,18 to 29,,F,Black/African American,Not Span/Hispanic,1,Elective,Home or Self Care,2015,216,9,22,1,1,Minor
+360,70 or Older,100,M,Other Race,Not Span/Hispanic,34,Urgent,Home w/ Home Health Services,2015,657,0,753,19,2,Moderate
+361,70 or Older,105,F,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,17,99,260,7,3,Major
+362,70 or Older,OOS,M,White,Not Span/Hispanic,14,Elective,Home w/ Home Health Services,2015,101,44,166,5,2,Moderate
+363,30 to 49,,M,White,Not Span/Hispanic,10,Elective,Home or Self Care,2015,83,1,21,1,2,Minor
+364,50 to 69,OOS,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,79,9,21,1,1,Minor
+365,50 to 69,115,M,White,Not Span/Hispanic,120 +,Elective,Skilled Nursing Home,2015,8,49,4,4,4,Extreme
+366,18 to 29,104,F,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+367,30 to 49,104,M,White,Spanish/Hispanic,2,Elective,Home or Self Care,2015,58,94,403,10,2,Minor
+368,0 to 17,,F,Multi-racial,Multi-ethnic,2,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+369,30 to 49,104,M,Other Race,Not Span/Hispanic,5,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+370,50 to 69,105,F,White,Not Span/Hispanic,26,Urgent,Short-term Hospital,2015,17,71,281,7,3,Major
+371,30 to 49,OOS,M,Other Race,Not Span/Hispanic,2,Urgent,Home or Self Care,2015,143,86,220,6,1,Minor
+372,50 to 69,115,M,Other Race,Not Span/Hispanic,20,Urgent,Home w/ Home Health Services,2015,108,176,2,5,4,Major
+373,30 to 49,149,M,White,Not Span/Hispanic,22,Urgent,Home or Self Care,2015,237,43,163,5,3,Major
+374,50 to 69,100,F,White,Spanish/Hispanic,2,Elective,Home or Self Care,2015,170,124,513,13,1,Minor
+375,0 to 17,100,M,Multi-racial,Spanish/Hispanic,70,Newborn,Inpatient Rehabilitation Facility,2015,218,50,583,15,3,Major
+376,50 to 69,OOS,M,White,Not Span/Hispanic,21,Urgent,Inpatient Rehabilitation Facility,2015,109,177,45,1,4,Extreme
+377,70 or Older,OOS,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,203,154,315,8,2,Moderate
+378,50 to 69,112,M,Other Race,Not Span/Hispanic,42,Elective,Home w/ Home Health Services,2015,254,213,860,23,3,Minor
+379,50 to 69,113,F,White,Spanish/Hispanic,6,Elective,Skilled Nursing Home,2015,212,158,303,8,1,Minor
+380,50 to 69,OOS,F,White,Not Span/Hispanic,19,Urgent,Home w/ Home Health Services,2015,109,61,21,1,4,Moderate
+381,0 to 17,112,M,White,Spanish/Hispanic,17,Newborn,Home or Self Care,2015,218,115,636,15,3,Minor
+382,30 to 49,105,M,Other Race,Not Span/Hispanic,55,Urgent,Inpatient Rehabilitation Facility,2015,109,1,21,1,4,Extreme
+383,50 to 69,OOS,F,Other Race,Not Span/Hispanic,28,Emergency,Home or Self Care,2015,96,49,161,5,4,Major
+384,30 to 49,112,F,Black/African American,Not Span/Hispanic,2,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+385,50 to 69,111,M,Other Race,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,58,74,403,10,1,Minor
+386,30 to 49,111,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+387,70 or Older,100,F,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,147,78,221,6,1,Minor
+388,70 or Older,105,F,White,Not Span/Hispanic,9,Elective,Skilled Nursing Home,2015,96,43,175,5,4,Major
+389,18 to 29,105,F,White,Spanish/Hispanic,2,Elective,Home or Self Care,2015,51,12,401,10,1,Minor
+390,70 or Older,109,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+391,70 or Older,112,M,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,152,302,8,1,Minor
+392,50 to 69,112,M,Other Race,Not Span/Hispanic,7,Elective,Home or Self Care,2015,16,99,260,7,3,Moderate
+393,50 to 69,OOS,F,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,42,90,260,7,2,Moderate
+394,50 to 69,,F,Other Race,Not Span/Hispanic,34,Emergency,Expired,2015,115,61,169,5,4,Extreme
+395,0 to 17,,M,Other Race,Spanish/Hispanic,41,Newborn,Home or Self Care,2015,218,216,607,15,1,Minor
+396,30 to 49,109,F,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,18,90,224,6,2,Minor
+397,70 or Older,112,F,White,Not Span/Hispanic,10,Elective,Home w/ Home Health Services,2015,238,169,721,18,2,Minor
+398,50 to 69,109,M,White,Not Span/Hispanic,25,Elective,Home w/ Home Health Services,2015,145,94,220,6,4,Major
+399,70 or Older,115,M,Other Race,Not Span/Hispanic,23,Emergency,Left Against Medical Advice,2015,237,47,191,5,4,Major
+400,30 to 49,OOS,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,208,162,313,8,1,Minor
+401,50 to 69,112,M,Other Race,Spanish/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+402,50 to 69,,F,White,Not Span/Hispanic,21,Urgent,Medicare Cert Long Term Care Hospital,2015,233,34,5,1,4,Extreme
+403,50 to 69,117,F,White,Not Span/Hispanic,11,Elective,Home w/ Home Health Services,2015,17,99,260,7,3,Major
+404,50 to 69,100,M,Multi-racial,Spanish/Hispanic,16,Elective,Home or Self Care,2015,40,64,3,17,2,Minor
+405,30 to 49,100,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,136,164,92,3,2,Minor
+406,30 to 49,100,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,238,9,23,1,2,Minor
+407,18 to 29,OOS,F,White,Not Span/Hispanic,8,Elective,Home or Self Care,2015,143,86,227,6,4,Moderate
+408,50 to 69,OOS,M,Black/African American,Not Span/Hispanic,8,Emergency,Home or Self Care,2015,17,99,260,7,3,Minor
+409,70 or Older,106,M,White,Not Span/Hispanic,14,Urgent,Inpatient Rehabilitation Facility,2015,96,43,175,5,4,Extreme
+410,30 to 49,113,F,Other Race,Not Span/Hispanic,13,Elective,Inpatient Rehabilitation Facility,2015,35,1,21,1,3,Major
+411,50 to 69,100,F,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,154,313,8,2,Minor
+412,30 to 49,100,M,Other Race,Multi-ethnic,1,Elective,Home w/ Home Health Services,2015,83,227,53,1,3,Minor
+413,30 to 49,OOS,F,Other Race,Not Span/Hispanic,58,Elective,Home w/ Home Health Services,2015,16,99,4,7,4,Extreme
+414,50 to 69,OOS,M,Other Race,Not Span/Hispanic,20,Elective,Expired,2015,45,224,681,17,4,Extreme
+415,70 or Older,OOS,F,White,Not Span/Hispanic,9,Elective,Skilled Nursing Home,2015,161,112,443,11,3,Moderate
+416,50 to 69,119,M,White,Not Span/Hispanic,23,Elective,Home w/ Home Health Services,2015,50,157,173,5,4,Minor
+417,30 to 49,100,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,143,86,220,6,1,Minor
+418,0 to 17,112,F,White,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,217,162,309,8,2,Minor
+419,50 to 69,,F,White,Multi-ethnic,22,Elective,Home or Self Care,2015,47,99,220,6,3,Minor
+420,50 to 69,112,F,Other Race,Not Span/Hispanic,18,Urgent,Skilled Nursing Home,2015,2,216,720,18,4,Extreme
+421,70 or Older,OOS,M,White,Not Span/Hispanic,15,Elective,Inpatient Rehabilitation Facility,2015,96,43,163,5,3,Major
+422,0 to 17,112,F,White,Spanish/Hispanic,38,Newborn,Cancer Center or Children's Hospital,2015,217,174,633,15,2,Major
+423,50 to 69,125,M,Other Race,Not Span/Hispanic,13,Urgent,Home w/ Home Health Services,2015,7,37,723,18,3,Minor
+424,70 or Older,OOS,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,203,154,315,8,2,Minor
+425,70 or Older,OOS,M,Other Race,Not Span/Hispanic,3,Emergency,Home or Self Care,2015,101,45,175,5,3,Moderate
+426,0 to 17,109,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+427,0 to 17,117,M,White,Not Span/Hispanic,4,Elective,Cancer Center or Children's Hospital,2015,82,9,23,1,2,Minor
+428,18 to 29,OOS,F,White,Not Span/Hispanic,7,Elective,Home or Self Care,2015,212,158,303,8,2,Minor
+429,0 to 17,100,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,161,112,443,11,1,Minor
+430,70 or Older,100,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+431,18 to 29,109,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,213,43,163,5,2,Major
+432,18 to 29,OOS,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,237,49,160,5,2,Minor
+433,30 to 49,125,F,Other Race,Not Span/Hispanic,19,Elective,Home or Self Care,2015,152,99,260,7,4,Moderate
+434,0 to 17,109,F,White,Not Span/Hispanic,6,Elective,Home w/ Home Health Services,2015,238,146,791,21,4,Moderate
+435,50 to 69,104,F,Other Race,Multi-ethnic,3,Elective,Home or Self Care,2015,24,175,362,9,1,Minor
+436,0 to 17,114,M,White,Not Span/Hispanic,22,Newborn,Home or Self Care,2015,218,223,614,15,1,Minor
+437,0 to 17,114,F,White,Not Span/Hispanic,22,Newborn,Home or Self Care,2015,218,223,614,15,1,Minor
+438,50 to 69,114,F,Other Race,Not Span/Hispanic,35,Urgent,Skilled Nursing Home,2015,254,213,860,23,3,Minor
+439,0 to 17,100,F,White,Spanish/Hispanic,89,Newborn,Home w/ Home Health Services,2015,218,220,593,15,2,Minor
+440,70 or Older,100,M,White,Not Span/Hispanic,16,Urgent,Home or Self Care,2015,123,231,139,4,4,Extreme
+441,70 or Older,109,M,White,Not Span/Hispanic,12,Urgent,Home w/ Home Health Services,2015,47,49,162,5,3,Major
+442,0 to 17,112,M,White,Not Span/Hispanic,17,Newborn,Home w/ Home Health Services,2015,218,49,630,15,3,Moderate
+443,30 to 49,107,F,Black/African American,Not Span/Hispanic,5,Elective,Home or Self Care,2015,185,137,540,14,2,Minor
+444,0 to 17,100,M,Black/African American,Not Span/Hispanic,88,Newborn,Expired,2015,218,75,588,15,4,Extreme
+445,0 to 17,104,M,Multi-racial,Spanish/Hispanic,16,Urgent,Home or Self Care,2015,131,216,130,4,4,Major
+446,0 to 17,104,F,Other Race,Spanish/Hispanic,22,Urgent,Home or Self Care,2015,131,198,133,4,3,Minor
+447,0 to 17,112,F,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,27,119,511,13,1,Minor
+448,0 to 17,103,F,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,213,49,160,5,2,Minor
+449,0 to 17,104,M,Black/African American,Not Span/Hispanic,15,Newborn,Home or Self Care,2015,218,231,614,15,1,Moderate
+450,50 to 69,113,M,White,Not Span/Hispanic,6,Elective,Home or Self Care,2015,42,99,260,7,2,Minor
+451,70 or Older,105,M,White,Not Span/Hispanic,3,Elective,Inpatient Rehabilitation Facility,2015,203,153,301,8,1,Minor
+452,70 or Older,OOS,M,Other Race,Not Span/Hispanic,25,Urgent,Home w/ Home Health Services,2015,155,78,221,6,4,Major
+453,70 or Older,OOS,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,143,86,221,6,1,Minor
+454,50 to 69,112,M,Other Race,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,101,43,163,5,3,Moderate
+455,70 or Older,OOS,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,17,99,260,7,2,Moderate
+456,70 or Older,104,M,White,Not Span/Hispanic,1,Elective,Home w/ Home Health Services,2015,95,142,952,1,2,Moderate
+457,50 to 69,113,F,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,47,104,443,11,2,Minor
+458,50 to 69,119,F,White,Not Span/Hispanic,26,Urgent,Home w/ Home Health Services,2015,108,48,170,5,3,Major
+459,30 to 49,100,F,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,46,125,519,13,2,Minor
+460,70 or Older,119,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,45,224,693,17,2,Minor
+461,50 to 69,OOS,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,217,12,404,10,2,Minor
+462,50 to 69,117,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+463,50 to 69,104,M,White,Spanish/Hispanic,36,Urgent,Expired,2015,237,216,130,4,4,Extreme
+464,30 to 49,OOS,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,208,162,313,8,1,Minor
+465,30 to 49,109,F,White,Not Span/Hispanic,35,Elective,Home w/ Home Health Services,2015,13,99,220,6,3,Major
+466,70 or Older,100,F,Other Race,Spanish/Hispanic,7,Elective,Skilled Nursing Home,2015,19,36,120,4,2,Moderate
+467,50 to 69,112,M,Other Race,Not Span/Hispanic,39,Urgent,Skilled Nursing Home,2015,657,218,751,19,3,Moderate
+468,70 or Older,OOS,F,Other Race,Not Span/Hispanic,18,Elective,Home w/ Home Health Services,2015,254,213,860,23,3,Moderate
+469,0 to 17,104,M,Other Race,Not Span/Hispanic,23,Urgent,Home or Self Care,2015,244,177,815,21,3,Minor
+470,50 to 69,OOS,F,Other Race,Not Span/Hispanic,11,Urgent,Inpatient Rehabilitation Facility,2015,109,61,21,1,3,Minor
+471,70 or Older,100,M,Other Race,Not Span/Hispanic,30,Elective,Skilled Nursing Home,2015,254,213,860,23,3,Moderate
+472,70 or Older,115,F,Other Race,Not Span/Hispanic,35,Urgent,Skilled Nursing Home,2015,133,36,121,4,4,Extreme
+473,0 to 17,109,M,White,Not Span/Hispanic,62,Newborn,Home w/ Home Health Services,2015,218,192,612,15,3,Minor
+474,0 to 17,,M,Multi-racial,Not Span/Hispanic,36,Newborn,Home or Self Care,2015,218,50,583,15,3,Major
+475,50 to 69,OOS,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,213,49,167,5,1,Minor
+476,30 to 49,112,M,White,Not Span/Hispanic,6,Elective,Home or Self Care,2015,213,49,167,5,3,Major
+477,50 to 69,112,F,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,259,104,443,11,2,Minor
+478,50 to 69,104,M,Other Race,Spanish/Hispanic,5,Elective,Home w/ Home Health Services,2015,101,44,166,5,2,Minor
+479,50 to 69,OOS,F,White,Not Span/Hispanic,2,Elective,Inpatient Rehabilitation Facility,2015,203,153,301,8,2,Minor
+480,50 to 69,112,M,White,Not Span/Hispanic,8,Elective,Home or Self Care,2015,96,43,163,5,2,Moderate
+481,30 to 49,112,M,Other Race,Not Span/Hispanic,6,Elective,Home w/ Home Health Services,2015,101,44,166,5,2,Minor
+482,30 to 49,104,M,White,Spanish/Hispanic,7,Elective,Home or Self Care,2015,15,78,221,6,1,Moderate
+483,0 to 17,100,F,Multi-racial,Not Span/Hispanic,1,Elective,Home or Self Care,2015,213,47,191,5,2,Moderate
+484,70 or Older,,M,Black/African American,Multi-ethnic,8,Elective,Home w/ Home Health Services,2015,15,78,221,6,2,Moderate
+485,50 to 69,104,F,Other Race,Multi-ethnic,1,Elective,Home or Self Care,2015,111,188,24,1,1,Minor
+486,18 to 29,111,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,237,61,169,5,3,Major
+487,70 or Older,100,M,White,Not Span/Hispanic,13,Urgent,Home or Self Care,2015,657,0,753,19,2,Minor
+488,50 to 69,112,M,White,Not Span/Hispanic,17,Urgent,Skilled Nursing Home,2015,238,142,711,18,4,Extreme
+489,30 to 49,104,F,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,1,Minor
+490,50 to 69,OOS,M,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,96,43,163,5,2,Moderate
+491,30 to 49,OOS,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,84,227,54,1,1,Minor
+492,50 to 69,OOS,M,Black/African American,Spanish/Hispanic,21,Urgent,Expired,2015,2,50,4,18,4,Extreme
+493,50 to 69,105,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+494,30 to 49,113,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,45,224,693,17,2,Moderate
+495,50 to 69,128,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,204,162,314,8,1,Minor
+496,50 to 69,112,M,White,Not Span/Hispanic,39,Not Available,Inpatient Rehabilitation Facility,2015,96,43,4,5,4,Extreme
+497,30 to 49,105,F,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,237,43,163,5,3,Major
+498,30 to 49,117,M,White,Not Span/Hispanic,1,Elective,Facility w/ Custodial/Supportive Care,2015,205,158,321,8,1,Minor
+499,70 or Older,107,F,White,Not Span/Hispanic,13,Elective,Home w/ Home Health Services,2015,237,112,443,11,4,Major
+500,70 or Older,115,M,Other Race,Not Span/Hispanic,5,Elective,Skilled Nursing Home,2015,209,158,304,8,1,Minor
+501,70 or Older,100,M,Other Race,Not Span/Hispanic,10,Elective,Skilled Nursing Home,2015,205,158,321,8,3,Major
+502,50 to 69,107,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,99,105,440,11,2,Minor
+503,30 to 49,125,F,Other Race,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,205,158,304,8,1,Minor
+504,30 to 49,106,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+505,18 to 29,104,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,42,67,681,17,3,Moderate
+506,18 to 29,109,F,Multi-racial,Not Span/Hispanic,3,Elective,Home or Self Care,2015,32,101,446,11,1,Minor
+507,70 or Older,105,M,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,96,43,175,5,4,Moderate
+508,70 or Older,OOS,M,White,Not Span/Hispanic,10,Elective,Expired,2015,96,43,4,5,4,Extreme
+509,50 to 69,117,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,170,124,513,13,1,Minor
+510,70 or Older,104,M,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,101,44,166,5,3,Major
+511,50 to 69,117,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,45,224,693,17,3,Major
+512,18 to 29,OOS,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,217,42,120,4,1,Minor
+513,30 to 49,100,F,Black/African American,Not Span/Hispanic,19,Urgent,Home or Self Care,2015,659,218,750,19,2,Minor
+514,50 to 69,100,F,White,Not Span/Hispanic,6,Elective,Home w/ Home Health Services,2015,205,158,304,8,1,Minor
+515,0 to 17,113,F,White,Not Span/Hispanic,25,Urgent,Home or Self Care,2015,131,216,130,4,4,Major
+516,50 to 69,113,M,Other Race,Not Span/Hispanic,10,Urgent,Skilled Nursing Home,2015,122,179,139,4,3,Moderate
+517,50 to 69,104,F,Other Race,Not Span/Hispanic,11,Elective,Home or Self Care,2015,657,218,753,19,1,Minor
+518,50 to 69,112,M,Black/African American,Not Span/Hispanic,14,Elective,Home w/ Home Health Services,2015,254,213,860,23,3,Moderate
+519,50 to 69,125,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,237,158,321,8,1,Minor
+520,50 to 69,115,F,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,205,158,304,8,1,Minor
+521,0 to 17,112,M,Black/African American,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,158,105,440,11,2,Minor
+522,30 to 49,112,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,205,158,321,8,2,Minor
+523,0 to 17,113,F,Other Race,Not Span/Hispanic,7,Elective,Home or Self Care,2015,238,99,221,6,4,Major
+524,30 to 49,104,M,White,Spanish/Hispanic,2,Elective,Home or Self Care,2015,259,104,443,11,2,Minor
+525,70 or Older,113,F,White,Spanish/Hispanic,14,Urgent,Home w/ Home Health Services,2015,254,213,860,23,3,Moderate
+526,30 to 49,100,M,Other Race,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,99,105,440,11,1,Moderate
+527,30 to 49,OOS,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,259,104,443,11,2,Minor
+528,30 to 49,109,F,Multi-racial,Not Span/Hispanic,5,Elective,Home or Self Care,2015,99,105,440,11,2,Minor
+529,30 to 49,114,F,Other Race,Not Span/Hispanic,22,Elective,Home or Self Care,2015,195,231,566,14,2,Minor
+530,50 to 69,100,F,Other Race,Not Span/Hispanic,12,Elective,Home w/ Home Health Services,2015,151,176,1,7,3,Moderate
+531,30 to 49,112,M,White,Not Span/Hispanic,14,Urgent,Home or Self Care,2015,657,218,753,19,1,Minor
+532,70 or Older,OOS,F,White,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,2,Moderate
+533,30 to 49,OOS,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+534,70 or Older,OOS,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,81,2,22,1,1,Minor
+535,50 to 69,104,F,Black/African American,Not Span/Hispanic,5,Elective,Home or Self Care,2015,45,224,693,17,3,Moderate
+536,50 to 69,106,F,Other Race,Not Span/Hispanic,7,Urgent,Home or Self Care,2015,209,158,304,8,1,Minor
+537,70 or Older,108,F,White,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,25,124,510,13,3,Major
+538,70 or Older,110,F,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,17,99,260,7,3,Major
+539,30 to 49,104,F,Multi-racial,Spanish/Hispanic,1,Elective,Home or Self Care,2015,161,112,443,11,1,Minor
+540,50 to 69,104,M,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,33,104,442,11,3,Moderate
+541,50 to 69,127,F,Other Race,Not Span/Hispanic,13,Elective,Skilled Nursing Home,2015,212,162,303,8,3,Major
+542,50 to 69,105,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,42,97,229,6,1,Moderate
+543,70 or Older,120,F,White,Not Span/Hispanic,4,Elective,Home w/ Home Health Services,2015,237,162,320,8,2,Minor
+544,0 to 17,OOS,M,Multi-racial,Multi-ethnic,11,Newborn,Home or Self Care,2015,218,216,633,15,2,Moderate
+545,30 to 49,,M,Other Race,Not Span/Hispanic,6,Elective,Home or Self Care,2015,96,43,162,5,3,Moderate
+546,50 to 69,,M,White,Spanish/Hispanic,99,Urgent,Expired,2015,100,44,4,5,4,Extreme
+547,30 to 49,112,M,Other Race,Not Span/Hispanic,10,Urgent,Home w/ Home Health Services,2015,133,178,142,4,4,Major
+548,70 or Older,OOS,F,Other Race,Not Span/Hispanic,36,Emergency,Short-term Hospital,2015,115,61,169,5,4,Extreme
+549,50 to 69,104,F,White,Not Span/Hispanic,47,Urgent,Home or Self Care,2015,657,218,753,19,4,Minor
+550,0 to 17,112,F,Other Race,Not Span/Hispanic,120 +,Urgent,Expired,2015,103,34,5,5,4,Extreme
+551,50 to 69,112,M,Black/African American,Not Span/Hispanic,19,Urgent,Skilled Nursing Home,2015,76,34,4,1,4,Extreme
+552,30 to 49,100,F,Other Race,Not Span/Hispanic,7,Urgent,Home w/ Home Health Services,2015,254,213,860,23,2,Minor
+553,30 to 49,100,F,Other Race,Not Span/Hispanic,18,Urgent,Home or Self Care,2015,657,215,751,19,2,Minor
+554,0 to 17,104,F,White,Multi-ethnic,10,Newborn,Home or Self Care,2015,218,231,626,15,2,Minor
+555,18 to 29,125,F,Black/African American,Not Span/Hispanic,29,Emergency,Home w/ Home Health Services,2015,103,54,207,5,3,Major
+556,0 to 17,104,M,Other Race,Not Span/Hispanic,15,Newborn,Home or Self Care,2015,218,231,625,15,1,Minor
+557,70 or Older,117,M,White,Not Span/Hispanic,33,Urgent,Skilled Nursing Home,2015,109,216,45,1,4,Extreme
+558,0 to 17,,F,Multi-racial,Spanish/Hispanic,7,Newborn,Home or Self Care,2015,218,220,639,15,2,Minor
+559,0 to 17,117,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,213,49,167,5,1,Minor
+560,50 to 69,114,M,Other Race,Spanish/Hispanic,8,Urgent,Home w/ Home Health Services,2015,7,70,723,18,3,Moderate
+561,0 to 17,104,M,Other Race,Spanish/Hispanic,2,Elective,Home or Self Care,2015,214,33,95,3,1,Minor
+562,0 to 17,112,M,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,213,49,163,5,1,Moderate
+563,0 to 17,100,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,161,112,443,11,1,Minor
+564,50 to 69,121,M,Other Race,Not Span/Hispanic,39,Elective,Home or Self Care,2015,45,54,693,17,4,Extreme
+565,0 to 17,115,M,White,Not Span/Hispanic,16,Newborn,Home or Self Care,2015,218,49,630,15,2,Moderate
+566,50 to 69,OOS,F,Multi-racial,Not Span/Hispanic,1,Elective,Home or Self Care,2015,32,101,446,11,1,Minor
+567,30 to 49,112,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,13,74,220,6,2,Minor
+568,30 to 49,112,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,58,74,403,10,2,Minor
+569,30 to 49,OOS,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,33,104,442,11,1,Minor
+570,70 or Older,106,M,White,Not Span/Hispanic,17,Urgent,Skilled Nursing Home,2015,248,61,173,5,3,Major
+571,70 or Older,104,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,79,9,21,1,1,Minor
+572,30 to 49,,M,Other Race,Not Span/Hispanic,10,Urgent,Home or Self Care,2015,63,0,660,16,4,Moderate
+573,18 to 29,OOS,M,Other Race,Not Span/Hispanic,43,Urgent,Home or Self Care,2015,81,226,40,1,3,Moderate
+574,50 to 69,120,M,Other Race,Not Span/Hispanic,9,Urgent,Home w/ Home Health Services,2015,6,176,1,7,3,Moderate
+575,0 to 17,114,F,Other Race,Spanish/Hispanic,4,Elective,Home or Self Care,2015,56,54,131,4,2,Minor
+576,50 to 69,112,M,White,Not Span/Hispanic,12,Urgent,Home or Self Care,2015,657,218,751,19,1,Minor
+577,18 to 29,103,M,Other Race,Not Span/Hispanic,3,Urgent,Inpatient Rehabilitation Facility,2015,109,198,45,1,1,Minor
+578,50 to 69,113,M,White,Not Span/Hispanic,18,Urgent,Hospice - Medical Facility,2015,35,1,21,1,4,Major
+579,50 to 69,105,M,White,Not Span/Hispanic,16,Urgent,Home w/ Home Health Services,2015,131,216,130,4,3,Moderate
+580,30 to 49,OOS,F,Other Race,Not Span/Hispanic,5,Elective,Home or Self Care,2015,181,137,540,14,2,Minor
+581,30 to 49,109,F,Multi-racial,Not Span/Hispanic,11,Urgent,Home w/ Home Health Services,2015,40,58,691,17,3,Moderate
+582,0 to 17,OOS,M,Other Race,Not Span/Hispanic,13,Urgent,Home or Self Care,2015,2,193,720,18,4,Extreme
+583,70 or Older,OOS,F,White,Not Span/Hispanic,6,Urgent,Home w/ Home Health Services,2015,233,1,20,1,1,Minor
+584,70 or Older,105,F,White,Not Span/Hispanic,32,Urgent,Skilled Nursing Home,2015,115,61,167,5,3,Extreme
+585,18 to 29,105,F,Other Race,Multi-ethnic,8,Urgent,Home w/ Home Health Services,2015,183,134,540,14,3,Moderate
+586,0 to 17,107,F,Other Race,Not Span/Hispanic,12,Urgent,Home or Self Care,2015,224,216,634,15,4,Major
+587,50 to 69,106,M,Black/African American,Not Span/Hispanic,33,Urgent,Inpatient Rehabilitation Facility,2015,42,9,23,1,3,Major
+588,50 to 69,112,F,Black/African American,Not Span/Hispanic,38,Urgent,Skilled Nursing Home,2015,85,174,52,1,4,Extreme
+589,30 to 49,104,F,Other Race,Not Span/Hispanic,25,Urgent,Inpatient Rehabilitation Facility,2015,47,188,58,1,3,Moderate
+590,0 to 17,100,F,Other Race,Not Span/Hispanic,5,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+591,30 to 49,100,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,195,137,560,14,1,Minor
+592,50 to 69,126,F,Black/African American,Not Span/Hispanic,8,Urgent,Home or Self Care,2015,237,47,191,5,3,Moderate
+593,0 to 17,100,M,Other Race,Not Span/Hispanic,120 +,Urgent,Cancer Center or Children's Hospital,2015,213,61,173,5,4,Major
+594,70 or Older,100,M,Other Race,Not Span/Hispanic,18,Elective,Home w/ Home Health Services,2015,254,197,860,23,3,Moderate
+595,70 or Older,100,M,White,Not Span/Hispanic,14,Urgent,Home w/ Home Health Services,2015,254,213,860,23,3,Moderate
+596,50 to 69,OOS,M,White,Not Span/Hispanic,8,Urgent,Home or Self Care,2015,6,176,1,7,2,Major
+597,0 to 17,105,F,Other Race,Not Span/Hispanic,7,Newborn,Home or Self Care,2015,218,216,639,15,1,Minor
+598,70 or Older,OOS,M,White,Not Span/Hispanic,6,Urgent,Skilled Nursing Home,2015,55,198,425,10,4,Major
+599,50 to 69,103,F,Other Race,Not Span/Hispanic,31,Urgent,Home or Self Care,2015,109,9,21,1,4,Extreme
+600,70 or Older,105,M,Other Race,Not Span/Hispanic,16,Urgent,Expired,2015,115,52,175,5,4,Extreme
+601,30 to 49,104,F,White,Multi-ethnic,3,Elective,Home or Self Care,2015,195,134,540,14,1,Minor
+602,30 to 49,104,F,White,Not Span/Hispanic,3,Emergency,Home or Self Care,2015,195,140,560,14,1,Minor
+603,70 or Older,OOS,F,White,Not Span/Hispanic,36,Elective,Expired,2015,108,43,162,5,4,Major
+604,0 to 17,104,F,Black/African American,Not Span/Hispanic,6,Newborn,Home w/ Home Health Services,2015,218,231,640,15,3,Minor
+605,0 to 17,100,M,White,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+606,50 to 69,106,F,Other Race,Not Span/Hispanic,9,Elective,Home or Self Care,2015,11,164,89,3,3,Moderate
+607,0 to 17,103,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,56,231,131,4,3,Minor
+608,30 to 49,OOS,F,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,237,158,304,8,2,Minor
+609,70 or Older,104,F,White,Not Span/Hispanic,8,Urgent,Inpatient Rehabilitation Facility,2015,109,1,21,1,3,Major
+610,50 to 69,104,F,Other Race,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,203,153,301,8,1,Minor
+611,18 to 29,100,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,83,227,53,1,3,Moderate
+612,50 to 69,OOS,M,Other Race,Not Span/Hispanic,6,Elective,Home or Self Care,2015,14,78,221,6,3,Major
+613,30 to 49,100,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,46,125,519,13,2,Minor
+614,70 or Older,104,F,Other Race,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,96,43,163,5,3,Major
+615,18 to 29,104,F,Black/African American,Not Span/Hispanic,4,Elective,Home or Self Care,2015,191,137,560,14,3,Minor
+616,50 to 69,112,F,White,Not Span/Hispanic,1,Elective,Home w/ Home Health Services,2015,24,175,362,9,1,Minor
+617,70 or Older,100,F,Other Race,Spanish/Hispanic,2,Elective,Home or Self Care,2015,211,154,315,8,2,Moderate
+618,0 to 17,100,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,61,174,662,16,2,Minor
+619,50 to 69,OOS,F,Other Race,Not Span/Hispanic,12,Urgent,Home w/ Home Health Services,2015,47,9,21,1,2,Minor
+620,50 to 69,,F,Multi-racial,Not Span/Hispanic,3,Elective,Home or Self Care,2015,195,124,546,14,1,Minor
+621,70 or Older,OOS,F,Multi-racial,Not Span/Hispanic,2,Elective,Home or Self Care,2015,25,124,512,13,1,Minor
+622,30 to 49,105,M,Black/African American,Not Span/Hispanic,8,Elective,Home or Self Care,2015,96,43,163,5,2,Moderate
+623,70 or Older,OOS,F,White,Not Span/Hispanic,2,Urgent,Home or Self Care,2015,17,198,281,7,1,Minor
+624,50 to 69,103,F,Other Race,Not Span/Hispanic,22,Urgent,Hospice - Medical Facility,2015,77,119,951,1,2,Moderate
+625,50 to 69,OOS,M,White,Not Span/Hispanic,8,Urgent,Home w/ Home Health Services,2015,108,47,191,5,3,Major
+626,50 to 69,,F,Other Race,Not Span/Hispanic,9,Urgent,Inpatient Rehabilitation Facility,2015,77,58,892,24,4,Major
+627,0 to 17,109,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,217,146,309,8,2,Minor
+628,70 or Older,OOS,F,Other Race,Not Span/Hispanic,6,Elective,Inpatient Rehabilitation Facility,2015,47,158,23,1,3,Minor
+629,0 to 17,114,M,Multi-racial,Multi-ethnic,9,Emergency,Home or Self Care,2015,130,39,137,4,3,Minor
+630,50 to 69,OOS,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,137,33,91,3,1,Minor
+631,70 or Older,OOS,M,White,Not Span/Hispanic,7,Urgent,Home or Self Care,2015,2,226,720,18,3,Extreme
+632,50 to 69,OOS,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+633,50 to 69,OOS,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,45,224,693,17,2,Moderate
+634,70 or Older,112,F,Other Race,Not Span/Hispanic,11,Emergency,Skilled Nursing Home,2015,96,43,175,5,4,Major
+635,18 to 29,117,M,Other Race,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,50,105,6,11,2,Moderate
+636,70 or Older,105,M,White,Not Span/Hispanic,4,Elective,Inpatient Rehabilitation Facility,2015,47,9,23,1,1,Minor
+637,0 to 17,OOS,M,Other Race,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+638,18 to 29,100,F,Other Race,Not Span/Hispanic,3,Emergency,Home w/ Home Health Services,2015,183,140,560,14,2,Minor
+639,70 or Older,OOS,M,Multi-racial,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,237,152,302,8,2,Minor
+640,50 to 69,112,M,Other Race,Not Span/Hispanic,10,Elective,Home w/ Home Health Services,2015,237,43,163,5,2,Moderate
+641,50 to 69,105,F,Other Race,Spanish/Hispanic,4,Urgent,Home or Self Care,2015,106,225,201,5,2,Moderate
+642,50 to 69,100,F,Black/African American,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+643,50 to 69,100,F,Other Race,Spanish/Hispanic,2,Elective,Home w/ Home Health Services,2015,24,175,362,9,1,Minor
+644,70 or Older,109,F,Other Race,Not Span/Hispanic,22,Emergency,Skilled Nursing Home,2015,108,49,180,5,4,Major
+645,30 to 49,112,F,Black/African American,Not Span/Hispanic,12,Emergency,Home w/ Home Health Services,2015,58,74,403,10,3,Major
+646,50 to 69,115,F,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,95,22,21,1,1,Minor
+647,70 or Older,103,F,Other Race,Not Span/Hispanic,22,Urgent,Skilled Nursing Home,2015,205,34,5,8,4,Major
+648,50 to 69,112,M,White,Not Span/Hispanic,7,Elective,Home w/ Home Health Services,2015,101,44,166,5,3,Moderate
+649,0 to 17,104,F,Other Race,Spanish/Hispanic,4,Newborn,Home or Self Care,2015,218,228,640,15,3,Minor
+650,70 or Older,125,F,Other Race,Not Span/Hispanic,7,Emergency,Inpatient Rehabilitation Facility,2015,109,202,45,1,2,Moderate
+651,70 or Older,107,F,White,Not Span/Hispanic,3,Urgent,Home w/ Home Health Services,2015,100,49,174,5,4,Extreme
+652,0 to 17,109,F,Other Race,Not Span/Hispanic,18,Urgent,Home or Self Care,2015,213,1,21,1,3,Moderate
+653,50 to 69,100,F,White,Not Span/Hispanic,7,Emergency,Home or Self Care,2015,657,0,753,19,2,Minor
+654,50 to 69,OOS,M,White,Not Span/Hispanic,10,Urgent,Home w/ Home Health Services,2015,149,176,1,7,3,Moderate
+655,0 to 17,104,M,White,Multi-ethnic,3,Newborn,Home or Self Care,2015,218,193,633,15,2,Moderate
+656,0 to 17,104,F,Other Race,Not Span/Hispanic,32,Newborn,Home or Self Care,2015,218,220,607,15,2,Minor
+657,70 or Older,OOS,M,Other Race,Not Span/Hispanic,29,Urgent,Skilled Nursing Home,2015,164,113,482,12,3,Major
+658,18 to 29,105,F,Multi-racial,Not Span/Hispanic,3,Elective,Home or Self Care,2015,183,134,540,14,2,Minor
+659,30 to 49,104,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,195,134,540,14,3,Moderate
+660,30 to 49,104,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,189,134,540,14,1,Minor
+661,30 to 49,109,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,185,139,560,14,2,Minor
+662,30 to 49,100,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,186,140,560,14,2,Minor
+663,70 or Older,OOS,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,114,60,173,5,2,Minor
+664,0 to 17,OOS,F,Multi-racial,Not Span/Hispanic,56,Newborn,Home or Self Care,2015,218,228,633,15,3,Moderate
+665,70 or Older,113,F,White,Not Span/Hispanic,6,Urgent,Home w/ Home Health Services,2015,142,96,225,6,2,Moderate
+666,0 to 17,OOS,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,212,158,303,8,2,Minor
+667,0 to 17,100,F,Black/African American,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,216,640,15,3,Minor
+668,70 or Older,107,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,45,231,693,17,3,Major
+669,0 to 17,OOS,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,237,158,304,8,3,Minor
+670,0 to 17,100,F,White,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+671,30 to 49,OOS,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+672,50 to 69,119,M,White,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,135,231,249,6,3,Moderate
+673,70 or Older,109,F,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,96,43,175,5,4,Moderate
+674,50 to 69,OOS,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,237,99,260,7,1,Moderate
+675,50 to 69,100,F,Other Race,Spanish/Hispanic,4,Elective,Home or Self Care,2015,109,1,21,1,1,Minor
+676,50 to 69,113,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,83,227,53,1,3,Minor
+677,70 or Older,104,F,Black/African American,Not Span/Hispanic,6,Urgent,Home w/ Home Health Services,2015,248,60,173,5,2,Moderate
+678,50 to 69,OOS,F,White,Not Span/Hispanic,38,Elective,Hospice - Medical Facility,2015,97,49,180,5,4,Extreme
+679,30 to 49,117,M,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,237,231,466,11,3,Minor
+680,50 to 69,117,M,White,Not Span/Hispanic,9,Urgent,Home w/ Home Health Services,2015,133,216,142,4,4,Major
+681,0 to 17,104,F,Other Race,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,228,640,15,3,Minor
+682,30 to 49,109,F,Other Race,Not Span/Hispanic,6,Elective,Home w/ Home Health Services,2015,44,42,317,8,1,Minor
+683,0 to 17,100,M,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+684,70 or Older,103,F,Multi-racial,Not Span/Hispanic,6,Elective,Skilled Nursing Home,2015,96,43,163,5,2,Major
+685,30 to 49,104,F,White,Spanish/Hispanic,8,Elective,Home w/ Home Health Services,2015,96,43,163,5,3,Moderate
+686,0 to 17,100,F,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,231,640,15,2,Minor
+687,70 or Older,110,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,157,231,460,11,3,Moderate
+688,50 to 69,113,F,White,Spanish/Hispanic,4,Urgent,Home or Self Care,2015,154,0,249,6,2,Minor
+689,70 or Older,107,M,Other Race,Not Span/Hispanic,7,Urgent,Skilled Nursing Home,2015,238,157,305,8,2,Moderate
+690,50 to 69,100,M,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,101,45,175,5,3,Moderate
+691,0 to 17,100,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,83,227,53,1,3,Minor
+692,50 to 69,OOS,M,White,Multi-ethnic,8,Elective,Skilled Nursing Home,2015,237,61,173,5,2,Moderate
+693,18 to 29,100,M,Black/African American,Not Span/Hispanic,2,Elective,Home or Self Care,2015,47,33,98,3,1,Minor
+694,50 to 69,112,F,Other Race,Spanish/Hispanic,13,Emergency,Home w/ Home Health Services,2015,115,43,162,5,3,Major
+695,50 to 69,104,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,109,1,21,1,2,Moderate
+696,0 to 17,105,F,Multi-racial,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+697,0 to 17,OOS,F,Multi-racial,Multi-ethnic,1,Elective,Home or Self Care,2015,254,161,850,23,2,Minor
+698,50 to 69,100,F,Black/African American,Spanish/Hispanic,1,Elective,Home w/ Home Health Services,2015,24,167,362,9,2,Minor
+699,70 or Older,OOS,M,White,Not Span/Hispanic,14,Urgent,Home w/ Home Health Services,2015,108,231,194,5,4,Extreme
+700,0 to 17,105,F,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,212,158,303,8,2,Minor
+701,30 to 49,OOS,M,Other Race,Not Span/Hispanic,27,Urgent,Home or Self Care,2015,657,218,753,19,1,Minor
+702,70 or Older,105,M,Other Race,Not Span/Hispanic,4,Elective,Home w/ Home Health Services,2015,101,44,166,5,2,Minor
+703,70 or Older,100,M,White,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,58,231,346,8,4,Major
+704,50 to 69,OOS,F,Multi-racial,Not Span/Hispanic,2,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+705,50 to 69,100,F,Black/African American,Not Span/Hispanic,2,Elective,Home or Self Care,2015,24,167,362,9,1,Minor
+706,30 to 49,109,F,White,Not Span/Hispanic,10,Urgent,Home w/ Home Health Services,2015,238,193,134,4,2,Minor
+707,50 to 69,117,M,White,Not Span/Hispanic,8,Emergency,Home or Self Care,2015,2,193,724,18,3,Moderate
+708,0 to 17,104,M,White,Multi-ethnic,7,Elective,Home or Self Care,2015,213,56,160,5,3,Moderate
+709,0 to 17,100,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+710,70 or Older,100,F,Other Race,Not Span/Hispanic,15,Urgent,Skilled Nursing Home,2015,248,190,197,5,4,Major
+711,0 to 17,104,M,Other Race,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,115,626,15,2,Minor
+712,50 to 69,112,F,Multi-racial,Not Span/Hispanic,16,Urgent,Skilled Nursing Home,2015,159,231,463,11,3,Major
+713,0 to 17,109,M,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+714,50 to 69,104,M,Other Race,Multi-ethnic,1,Urgent,Home or Self Care,2015,101,45,175,5,2,Moderate
+715,50 to 69,100,M,White,Not Span/Hispanic,8,Elective,Home w/ Home Health Services,2015,12,94,220,6,2,Minor
+716,30 to 49,109,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,237,94,791,21,2,Minor
+717,0 to 17,104,F,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+718,50 to 69,112,F,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,122,178,139,4,2,Moderate
+719,0 to 17,104,M,White,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,115,640,15,3,Minor
+720,30 to 49,108,F,White,Not Span/Hispanic,3,Emergency,Home or Self Care,2015,193,140,560,14,2,Minor
+721,70 or Older,115,F,White,Not Span/Hispanic,37,Emergency,Skilled Nursing Home,2015,229,148,312,8,4,Major
+722,50 to 69,OOS,M,Other Race,Not Span/Hispanic,9,Urgent,Home w/ Home Health Services,2015,35,7,41,1,3,Major
+723,50 to 69,105,M,Other Race,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,254,213,860,23,2,Minor
+724,18 to 29,100,M,Other Race,Not Span/Hispanic,9,Elective,Home or Self Care,2015,657,218,751,19,2,Minor
+725,0 to 17,112,F,White,Not Span/Hispanic,7,Newborn,Home or Self Care,2015,218,231,633,15,3,Moderate
+726,70 or Older,127,M,White,Not Span/Hispanic,17,Urgent,Home w/ Home Health Services,2015,100,216,190,5,4,Extreme
+727,50 to 69,105,M,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,151,88,283,7,4,Major
+728,30 to 49,104,F,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,195,134,540,14,1,Minor
+729,18 to 29,104,F,Multi-racial,Multi-ethnic,3,Elective,Home or Self Care,2015,189,134,540,14,1,Minor
+730,0 to 17,112,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+731,0 to 17,100,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+732,70 or Older,105,M,White,Not Span/Hispanic,4,Urgent,Expired,2015,100,47,190,5,4,Extreme
+733,0 to 17,100,M,Black/African American,Not Span/Hispanic,6,Newborn,Home or Self Care,2015,218,228,639,15,1,Minor
+734,0 to 17,100,F,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+735,50 to 69,100,F,Other Race,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,199,172,361,9,2,Minor
+736,18 to 29,113,M,Other Race,Not Span/Hispanic,120 +,Elective,Expired,2015,16,99,4,7,4,Extreme
+737,50 to 69,113,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,101,45,175,5,2,Minor
+738,18 to 29,OOS,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,114,61,447,11,2,Minor
+739,0 to 17,112,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,237,49,160,5,3,Moderate
+740,0 to 17,103,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,45,224,693,17,2,Moderate
+741,0 to 17,104,M,Black/African American,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+742,70 or Older,104,F,White,Not Span/Hispanic,12,Urgent,Skilled Nursing Home,2015,127,197,140,4,1,Minor
+743,70 or Older,100,M,Other Race,Not Span/Hispanic,5,Elective,Home or Self Care,2015,45,224,693,17,4,Major
+744,18 to 29,112,M,White,Not Span/Hispanic,10,Emergency,Home or Self Care,2015,237,47,191,5,3,Major
+745,0 to 17,109,M,Multi-racial,Not Span/Hispanic,6,Urgent,Home w/ Home Health Services,2015,237,231,660,16,4,Moderate
+746,50 to 69,104,M,Black/African American,Not Span/Hispanic,5,Elective,Skilled Nursing Home,2015,238,164,317,8,2,Moderate
+747,30 to 49,OOS,F,White,Not Span/Hispanic,21,Elective,Home w/ Home Health Services,2015,155,75,221,6,4,Major
+748,50 to 69,100,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,45,224,693,17,1,Minor
+749,50 to 69,117,F,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,45,4,693,17,2,Minor
+750,70 or Older,111,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,45,224,693,17,2,Moderate
+751,30 to 49,104,M,Black/African American,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,45,224,693,17,2,Moderate
+752,30 to 49,100,M,Black/African American,Not Span/Hispanic,3,Elective,Home or Self Care,2015,45,224,693,17,1,Minor
+753,50 to 69,112,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,45,224,693,17,2,Moderate
+754,70 or Older,100,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,246,226,722,18,3,Major
+755,0 to 17,104,M,Multi-racial,Multi-ethnic,3,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+756,0 to 17,OOS,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,83,227,53,1,2,Moderate
+757,30 to 49,OOS,F,White,Not Span/Hispanic,28,Urgent,Home or Self Care,2015,657,218,753,19,3,Minor
+758,30 to 49,100,M,Other Race,Spanish/Hispanic,3,Elective,Home w/ Home Health Services,2015,230,147,313,8,2,Minor
+759,0 to 17,104,M,Black/African American,Not Span/Hispanic,5,Newborn,Home w/ Home Health Services,2015,218,228,633,15,4,Major
+760,30 to 49,112,F,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,191,140,560,14,2,Minor
+761,0 to 17,100,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,217,33,92,3,2,Minor
+762,70 or Older,101,F,White,Not Span/Hispanic,8,Urgent,Home w/ Home Health Services,2015,237,169,349,8,2,Minor
+763,50 to 69,107,F,Other Race,Not Span/Hispanic,3,Urgent,Home w/ Home Health Services,2015,230,147,313,8,1,Minor
+764,50 to 69,107,M,White,Not Span/Hispanic,2,Emergency,Home or Self Care,2015,100,45,174,5,1,Minor
+765,0 to 17,105,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,106,49,175,5,1,Minor
+766,18 to 29,117,M,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,106,49,175,5,1,Minor
+767,0 to 17,114,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,213,61,173,5,2,Minor
+768,18 to 29,109,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,213,61,173,5,1,Minor
+769,0 to 17,105,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,213,61,173,5,2,Minor
+770,30 to 49,112,M,Other Race,Spanish/Hispanic,12,Elective,Home w/ Home Health Services,2015,47,99,260,7,3,Minor
+771,0 to 17,104,M,White,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,0,640,15,1,Minor
+772,70 or Older,109,M,Multi-racial,Not Span/Hispanic,9,Elective,Inpatient Rehabilitation Facility,2015,45,224,693,17,2,Moderate
+773,30 to 49,115,F,Other Race,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,99,105,440,11,1,Moderate
+774,0 to 17,104,M,Multi-racial,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,3,Minor
+775,50 to 69,103,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,138,94,222,6,2,Minor
+776,30 to 49,104,F,Multi-racial,Multi-ethnic,6,Elective,Home or Self Care,2015,19,36,120,4,2,Moderate
+777,30 to 49,104,F,Black/African American,Not Span/Hispanic,1,Urgent,Expired,2015,242,177,812,21,4,Extreme
+778,30 to 49,OOS,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,17,99,260,7,3,Minor
+779,50 to 69,OOS,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,19,36,120,4,2,Minor
+780,70 or Older,109,M,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,19,36,121,4,2,Moderate
+781,30 to 49,111,M,Other Race,Not Span/Hispanic,16,Emergency,Home or Self Care,2015,237,231,206,5,3,Major
+782,30 to 49,100,F,Other Race,Not Span/Hispanic,8,Urgent,Home or Self Care,2015,234,147,313,8,2,Minor
+783,0 to 17,108,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+784,50 to 69,112,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,17,97,281,7,2,Moderate
+785,30 to 49,109,F,Other Race,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,152,231,282,7,3,Moderate
+786,50 to 69,117,F,White,Not Span/Hispanic,5,Elective,Home w/ Home Health Services,2015,17,99,260,7,3,Moderate
+787,18 to 29,OOS,M,Other Race,Not Span/Hispanic,7,Emergency,Home or Self Care,2015,657,218,753,19,1,Minor
+788,30 to 49,114,F,Black/African American,Not Span/Hispanic,14,Urgent,Expired,2015,131,216,130,4,4,Major
+789,0 to 17,104,M,White,Spanish/Hispanic,44,Newborn,Home or Self Care,2015,218,216,611,15,4,Extreme
+790,0 to 17,100,M,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+791,50 to 69,119,F,White,Not Span/Hispanic,12,Urgent,Hospice - Medical Facility,2015,78,198,42,1,3,Moderate
+792,50 to 69,OOS,M,White,Not Span/Hispanic,9,Elective,Short-term Hospital,2015,254,213,860,23,4,Major
+793,70 or Older,110,F,White,Not Span/Hispanic,28,Urgent,Inpatient Rehabilitation Facility,2015,133,34,2,4,4,Extreme
+794,70 or Older,107,M,Other Race,Not Span/Hispanic,15,Urgent,Home w/ Home Health Services,2015,77,4,50,1,3,Major
+795,0 to 17,100,M,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+796,0 to 17,100,M,Black/African American,Not Span/Hispanic,5,Newborn,Home or Self Care,2015,218,115,640,15,2,Minor
+797,0 to 17,100,M,Multi-racial,Spanish/Hispanic,5,Newborn,Home w/ Home Health Services,2015,218,77,639,15,1,Minor
+798,0 to 17,105,M,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,45,224,693,17,3,Moderate
+799,0 to 17,OOS,F,Black/African American,Not Span/Hispanic,12,Urgent,Home or Self Care,2015,47,9,23,1,1,Minor
+800,30 to 49,112,M,Other Race,Not Span/Hispanic,11,Urgent,Expired,2015,233,34,5,1,4,Extreme
+801,50 to 69,104,M,Black/African American,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,237,0,143,4,4,Major
+802,0 to 17,100,M,Other Race,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+803,18 to 29,100,M,White,Spanish/Hispanic,6,Urgent,Home or Self Care,2015,657,218,751,19,1,Minor
+804,0 to 17,100,F,Multi-racial,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,3,Minor
+805,50 to 69,117,F,White,Not Span/Hispanic,4,Urgent,Expired,2015,42,231,240,6,3,Major
+806,0 to 17,104,F,Multi-racial,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+807,0 to 17,100,F,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+808,0 to 17,OOS,M,Multi-racial,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,228,626,15,1,Minor
+809,50 to 69,104,M,Other Race,Not Span/Hispanic,41,Urgent,Home w/ Home Health Services,2015,657,218,751,19,3,Moderate
+810,0 to 17,112,F,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+811,70 or Older,OOS,M,White,Not Span/Hispanic,20,Urgent,Skilled Nursing Home,2015,108,178,194,5,3,Major
+812,0 to 17,100,F,Black/African American,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,633,15,1,Minor
+813,50 to 69,107,M,White,Not Span/Hispanic,114,Urgent,Expired,2015,131,216,130,4,4,Extreme
+814,50 to 69,104,F,White,Not Span/Hispanic,28,Urgent,Home or Self Care,2015,657,177,753,19,2,Minor
+815,0 to 17,100,F,Other Race,Spanish/Hispanic,4,Newborn,Home or Self Care,2015,218,228,633,15,2,Minor
+816,50 to 69,100,M,Other Race,Not Span/Hispanic,28,Urgent,Inpatient Rehabilitation Facility,2015,109,188,45,1,4,Extreme
+817,70 or Older,OOS,F,Other Race,Not Span/Hispanic,9,Emergency,Medicare Cert Long Term Care Hospital,2015,19,42,121,4,4,Major
+818,0 to 17,112,F,White,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+819,30 to 49,109,F,Multi-racial,Not Span/Hispanic,4,Elective,Home or Self Care,2015,189,134,540,14,1,Minor
+820,18 to 29,100,F,White,Spanish/Hispanic,3,Elective,Home or Self Care,2015,187,134,540,14,1,Minor
+821,30 to 49,104,F,Other Race,Spanish/Hispanic,3,Elective,Home or Self Care,2015,189,134,540,14,1,Minor
+822,18 to 29,100,F,White,Spanish/Hispanic,3,Elective,Home or Self Care,2015,181,134,540,14,2,Minor
+823,30 to 49,112,M,Black/African American,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,109,188,44,1,3,Moderate
+824,0 to 17,104,F,White,Spanish/Hispanic,54,Newborn,Home w/ Home Health Services,2015,218,71,633,15,2,Minor
+825,30 to 49,127,M,Other Race,Not Span/Hispanic,14,Emergency,Home or Self Care,2015,100,44,166,5,4,Major
+826,0 to 17,106,F,Multi-racial,Not Span/Hispanic,1,Elective,Home or Self Care,2015,95,54,58,1,1,Minor
+827,0 to 17,104,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+828,0 to 17,104,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,259,227,52,1,2,Minor
+829,0 to 17,104,M,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,259,227,58,1,1,Minor
+830,18 to 29,OOS,F,White,Not Span/Hispanic,4,Emergency,Home or Self Care,2015,187,134,540,14,3,Minor
+831,70 or Older,112,M,Other Race,Not Span/Hispanic,5,Elective,Home or Self Care,2015,101,47,192,5,2,Moderate
+832,70 or Older,104,F,White,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,7,0,531,13,2,Moderate
+833,0 to 17,109,F,Multi-racial,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+834,50 to 69,105,M,White,Not Span/Hispanic,9,Urgent,Expired,2015,39,65,690,17,4,Extreme
+835,30 to 49,103,F,White,Not Span/Hispanic,3,Emergency,Home or Self Care,2015,183,140,560,14,3,Minor
+836,50 to 69,OOS,M,Black/African American,Not Span/Hispanic,1,Urgent,Home or Self Care,2015,152,179,282,7,1,Minor
+837,30 to 49,100,F,Other Race,Not Span/Hispanic,4,Emergency,Home or Self Care,2015,189,134,540,14,1,Minor
+838,0 to 17,104,M,Black/African American,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,115,640,15,2,Minor
+839,50 to 69,114,M,Other Race,Not Span/Hispanic,16,Urgent,Expired,2015,133,216,130,4,4,Major
+840,70 or Older,100,F,Other Race,Not Span/Hispanic,2,Elective,Home w/ Home Health Services,2015,203,154,315,8,2,Moderate
+841,50 to 69,124,M,Other Race,Not Span/Hispanic,2,Emergency,Home or Self Care,2015,101,47,192,5,2,Moderate
+842,0 to 17,100,F,White,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+843,50 to 69,106,F,Black/African American,Not Span/Hispanic,12,Emergency,Home w/ Home Health Services,2015,100,44,165,5,3,Moderate
+844,50 to 69,OOS,F,Black/African American,Not Span/Hispanic,20,Urgent,Home w/ Home Health Services,2015,237,197,279,7,3,Moderate
+845,70 or Older,107,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,153,301,8,1,Minor
+846,70 or Older,105,M,White,Not Span/Hispanic,4,Emergency,Home or Self Care,2015,58,47,346,8,3,Major
+847,0 to 17,104,M,White,Spanish/Hispanic,13,Urgent,Cancer Center or Children's Hospital,2015,233,199,930,25,4,Extreme
+848,30 to 49,109,F,White,Not Span/Hispanic,7,Urgent,Home w/ Home Health Services,2015,158,58,468,11,2,Moderate
+849,70 or Older,100,M,White,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,55,231,425,10,3,Major
+850,30 to 49,104,F,Multi-racial,Not Span/Hispanic,3,Emergency,Home or Self Care,2015,193,140,560,14,2,Minor
+851,50 to 69,114,M,White,Not Span/Hispanic,1,Elective,Home w/ Home Health Services,2015,38,37,691,17,1,Minor
+852,30 to 49,109,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,205,158,304,8,1,Minor
+853,70 or Older,OOS,M,White,Not Span/Hispanic,6,Elective,Skilled Nursing Home,2015,205,158,304,8,2,Minor
+854,0 to 17,104,F,Other Race,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+855,50 to 69,100,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,33,104,442,11,2,Minor
+856,30 to 49,113,F,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+857,70 or Older,104,F,Black/African American,Not Span/Hispanic,1,Elective,Home w/ Home Health Services,2015,114,61,173,5,2,Moderate
+858,50 to 69,OOS,F,Multi-racial,Not Span/Hispanic,5,Urgent,Home w/ Home Health Services,2015,35,1,21,1,2,Moderate
+859,30 to 49,104,F,Other Race,Not Span/Hispanic,6,Urgent,Home w/ Home Health Services,2015,156,105,440,11,3,Major
+860,0 to 17,OOS,F,White,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,220,626,15,2,Minor
+861,0 to 17,OOS,F,White,Not Span/Hispanic,7,Newborn,Home or Self Care,2015,218,231,626,15,3,Minor
+862,30 to 49,100,F,Multi-racial,Not Span/Hispanic,5,Elective,Home or Self Care,2015,191,134,540,14,2,Minor
+863,50 to 69,OOS,F,Other Race,Not Span/Hispanic,7,Urgent,Inpatient Rehabilitation Facility,2015,205,3,310,8,3,Minor
+864,0 to 17,112,M,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+865,70 or Older,OOS,M,Other Race,Not Span/Hispanic,25,Emergency,Skilled Nursing Home,2015,96,43,175,5,4,Extreme
+866,30 to 49,100,F,Other Race,Not Span/Hispanic,5,Urgent,Home or Self Care,2015,254,215,860,23,2,Minor
+867,0 to 17,,F,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+868,0 to 17,100,F,White,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+869,30 to 49,104,F,Black/African American,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,183,134,540,14,1,Minor
+870,0 to 17,100,M,Multi-racial,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,220,626,15,1,Minor
+871,0 to 17,100,F,Multi-racial,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,220,626,15,1,Minor
+872,0 to 17,100,F,White,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+873,0 to 17,104,M,Other Race,Spanish/Hispanic,2,Emergency,Home or Self Care,2015,106,225,201,5,1,Moderate
+874,0 to 17,103,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+875,0 to 17,103,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,228,626,15,1,Minor
+876,0 to 17,104,M,Multi-racial,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+877,18 to 29,100,F,Multi-racial,Multi-ethnic,2,Urgent,Home or Self Care,2015,181,137,560,14,2,Minor
+878,0 to 17,100,F,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+879,0 to 17,100,F,White,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+880,0 to 17,104,M,Black/African American,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,228,640,15,1,Minor
+881,0 to 17,100,F,Multi-racial,Multi-ethnic,2,Newborn,Home or Self Care,2015,218,216,633,15,1,Minor
+882,0 to 17,104,F,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+883,0 to 17,104,F,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,83,227,53,1,1,Minor
+884,0 to 17,100,M,Other Race,Spanish/Hispanic,2,Emergency,Home or Self Care,2015,83,227,53,1,2,Minor
+885,70 or Older,103,M,White,Not Span/Hispanic,12,Urgent,Expired,2015,122,216,139,4,4,Extreme
+886,50 to 69,OOS,F,Other Race,Not Span/Hispanic,5,Emergency,Home or Self Care,2015,152,231,282,7,3,Moderate
+887,70 or Older,117,M,White,Not Span/Hispanic,5,Urgent,Home or Self Care,2015,101,45,175,5,2,Moderate
+888,0 to 17,113,F,Multi-racial,Multi-ethnic,6,Urgent,Home or Self Care,2015,131,216,130,4,4,Major
+889,30 to 49,117,M,White,Not Span/Hispanic,41,Urgent,Home or Self Care,2015,108,49,161,5,4,Major
+890,50 to 69,105,F,Black/African American,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,108,47,191,5,3,Major
+891,70 or Older,107,M,White,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,106,48,161,5,1,Moderate
+892,50 to 69,109,M,White,Not Span/Hispanic,6,Urgent,Skilled Nursing Home,2015,152,99,260,7,3,Major
+893,50 to 69,117,F,Other Race,Not Span/Hispanic,37,Urgent,Home w/ Home Health Services,2015,151,176,1,7,4,Extreme
+894,50 to 69,OOS,M,White,Not Span/Hispanic,5,Urgent,Home or Self Care,2015,130,39,143,4,3,Moderate
+895,0 to 17,100,M,Other Race,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+896,0 to 17,104,M,White,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+897,50 to 69,105,M,White,Not Span/Hispanic,5,Urgent,Home or Self Care,2015,100,45,174,5,2,Moderate
+898,0 to 17,104,M,Other Race,Not Span/Hispanic,9,Newborn,Home or Self Care,2015,218,216,639,15,1,Minor
+899,0 to 17,104,F,White,Not Span/Hispanic,5,Urgent,Home or Self Care,2015,131,216,133,4,4,Major
+900,70 or Older,OOS,M,White,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,81,3,23,1,1,Minor
+901,0 to 17,OOS,M,Other Race,Not Span/Hispanic,7,Urgent,Home or Self Care,2015,107,48,161,5,1,Minor
+902,0 to 17,105,F,White,Not Span/Hispanic,25,Newborn,Home or Self Care,2015,218,216,611,15,2,Minor
+903,0 to 17,105,F,White,Not Span/Hispanic,25,Newborn,Home or Self Care,2015,218,220,611,15,2,Moderate
+904,0 to 17,104,F,Other Race,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,0,640,15,2,Minor
+905,0 to 17,104,M,White,Spanish/Hispanic,4,Newborn,Home or Self Care,2015,218,228,640,15,2,Minor
+906,0 to 17,100,M,Multi-racial,Multi-ethnic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+907,0 to 17,104,M,Multi-racial,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+908,0 to 17,117,M,Other Race,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+909,0 to 17,100,F,Multi-racial,Multi-ethnic,1,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+910,0 to 17,104,M,White,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,633,15,2,Minor
+911,0 to 17,103,F,White,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+912,18 to 29,104,F,Black/African American,Not Span/Hispanic,2,Elective,Home or Self Care,2015,195,137,560,14,1,Minor
+913,0 to 17,100,M,Multi-racial,Not Span/Hispanic,4,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+914,50 to 69,105,M,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,100,45,174,5,1,Minor
+915,0 to 17,103,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,83,227,53,1,3,Minor
+916,0 to 17,109,F,Multi-racial,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+917,50 to 69,OOS,F,Other Race,Not Span/Hispanic,9,Urgent,Expired,2015,115,61,4,5,4,Extreme
+918,70 or Older,OOS,M,White,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,45,224,693,17,1,Moderate
+919,50 to 69,105,M,Other Race,Not Span/Hispanic,5,Urgent,Home or Self Care,2015,105,48,161,5,1,Moderate
+920,50 to 69,104,M,Other Race,Not Span/Hispanic,5,Urgent,Home w/ Home Health Services,2015,42,1,21,1,3,Major
+921,50 to 69,107,F,White,Not Span/Hispanic,34,Urgent,Skilled Nursing Home,2015,42,227,41,1,4,Major
+922,0 to 17,112,F,White,Not Span/Hispanic,25,Urgent,Home or Self Care,2015,213,49,630,15,4,Major
+923,0 to 17,100,F,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+924,0 to 17,104,M,Other Race,Multi-ethnic,2,Newborn,Home or Self Care,2015,218,115,640,15,2,Minor
+925,0 to 17,104,M,Multi-racial,Multi-ethnic,3,Newborn,Home w/ Home Health Services,2015,218,220,640,15,2,Minor
+926,0 to 17,104,M,Black/African American,Not Span/Hispanic,1,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+927,18 to 29,109,F,White,Spanish/Hispanic,3,Elective,Home or Self Care,2015,189,134,540,14,1,Minor
+928,18 to 29,104,F,Black/African American,Not Span/Hispanic,4,Elective,Home or Self Care,2015,185,137,560,14,2,Minor
+929,18 to 29,109,F,White,Not Span/Hispanic,3,Elective,Home or Self Care,2015,196,140,560,14,2,Minor
+930,30 to 49,100,F,Other Race,Not Span/Hispanic,4,Elective,Home or Self Care,2015,185,137,560,14,1,Minor
+931,50 to 69,117,M,White,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,45,224,693,17,2,Moderate
+932,0 to 17,107,M,White,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,115,633,15,1,Minor
+933,0 to 17,100,F,White,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,223,639,15,1,Minor
+934,18 to 29,,M,White,Not Span/Hispanic,60,Urgent,Hospice - Home,2015,2,34,4,18,4,Extreme
+935,0 to 17,104,F,Other Race,Spanish/Hispanic,4,Newborn,Home or Self Care,2015,218,231,640,15,2,Minor
+936,70 or Older,OOS,M,Other Race,Not Span/Hispanic,2,Elective,Home or Self Care,2015,101,45,175,5,1,Minor
+937,0 to 17,,M,Multi-racial,Multi-ethnic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+938,0 to 17,104,M,Multi-racial,Multi-ethnic,4,Elective,Home or Self Care,2015,45,224,693,17,2,Moderate
+939,0 to 17,104,F,White,Spanish/Hispanic,5,Elective,Home or Self Care,2015,45,5,693,17,2,Moderate
+940,0 to 17,OOS,F,White,Not Span/Hispanic,6,Elective,Home or Self Care,2015,45,5,693,17,3,Moderate
+941,0 to 17,112,M,Other Race,Not Span/Hispanic,1,Urgent,Home or Self Care,2015,83,227,53,1,2,Minor
+942,0 to 17,OOS,M,White,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+943,0 to 17,103,M,White,Multi-ethnic,2,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+944,0 to 17,100,M,Other Race,Not Span/Hispanic,7,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+945,0 to 17,100,M,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,83,227,53,1,2,Minor
+946,30 to 49,100,M,Multi-racial,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,83,227,53,1,3,Moderate
+947,0 to 17,100,M,Other Race,Not Span/Hispanic,109,Elective,Cancer Center or Children's Hospital,2015,238,161,711,18,3,Minor
+948,50 to 69,113,F,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,229,148,315,8,2,Minor
+949,0 to 17,109,F,White,Spanish/Hispanic,3,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+950,50 to 69,113,M,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,45,224,693,17,2,Moderate
+951,0 to 17,105,M,White,Not Span/Hispanic,3,Newborn,Home or Self Care,2015,218,220,626,15,3,Minor
+952,70 or Older,113,F,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,204,154,315,8,2,Minor
+953,0 to 17,115,M,White,Not Span/Hispanic,4,Elective,Home or Self Care,2015,217,36,120,4,2,Minor
+954,50 to 69,121,M,White,Not Span/Hispanic,4,Urgent,Home w/ Home Health Services,2015,135,70,248,6,4,Major
+955,50 to 69,112,F,Black/African American,Not Span/Hispanic,3,Urgent,Home w/ Home Health Services,2015,63,223,660,16,3,Moderate
+956,18 to 29,100,M,White,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,657,227,753,19,2,Minor
+957,70 or Older,105,F,Black/African American,Not Span/Hispanic,9,Emergency,Inpatient Rehabilitation Facility,2015,101,44,166,5,3,Major
+958,30 to 49,100,F,Other Race,Spanish/Hispanic,2,Urgent,Home or Self Care,2015,185,140,560,14,1,Minor
+959,50 to 69,OOS,M,Other Race,Not Span/Hispanic,4,Urgent,Home or Self Care,2015,58,222,694,17,3,Minor
+960,70 or Older,OOS,M,Other Race,Not Span/Hispanic,3,Urgent,Home or Self Care,2015,7,231,138,4,3,Major
+961,50 to 69,127,F,White,Not Span/Hispanic,16,Elective,Home w/ Home Health Services,2015,101,44,166,5,4,Major
+962,18 to 29,100,F,White,Not Span/Hispanic,7,Emergency,Home or Self Care,2015,657,218,751,19,1,Minor
+963,70 or Older,,F,Other Race,Not Span/Hispanic,1,Urgent,Expired,2015,2,216,720,18,4,Extreme
+964,70 or Older,100,M,Other Race,Not Span/Hispanic,9,Urgent,Home or Self Care,2015,122,37,137,4,3,Moderate
+965,50 to 69,109,M,White,Not Span/Hispanic,11,Emergency,Home or Self Care,2015,237,47,191,5,3,Major
+966,50 to 69,100,F,White,Spanish/Hispanic,7,Emergency,Home w/ Home Health Services,2015,96,43,163,5,3,Major
+967,0 to 17,100,F,Multi-racial,Not Span/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,2,Minor
+968,50 to 69,112,M,Black/African American,Not Span/Hispanic,11,Urgent,Home w/ Home Health Services,2015,108,204,194,5,4,Extreme
+969,50 to 69,OOS,M,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,42,36,121,4,1,Minor
+970,0 to 17,104,F,Multi-racial,Multi-ethnic,2,Newborn,Home or Self Care,2015,218,220,626,15,1,Minor
+971,70 or Older,OOS,M,Other Race,Not Span/Hispanic,2,Emergency,Home or Self Care,2015,101,47,192,5,3,Major
+972,70 or Older,125,M,White,Not Span/Hispanic,41,Elective,Inpatient Rehabilitation Facility,2015,237,34,4,5,4,Extreme
+973,30 to 49,100,F,White,Spanish/Hispanic,3,Urgent,Home or Self Care,2015,187,134,540,14,2,Minor
+974,0 to 17,115,F,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,212,158,303,8,2,Minor
+975,50 to 69,114,F,Other Race,Not Span/Hispanic,1,Urgent,Home or Self Care,2015,118,197,197,5,2,Minor
+976,0 to 17,OOS,M,White,Not Span/Hispanic,5,Elective,Home or Self Care,2015,130,42,120,4,2,Minor
+977,50 to 69,108,F,Other Race,Spanish/Hispanic,2,Elective,Home or Self Care,2015,111,61,21,1,2,Minor
+978,70 or Older,100,F,Black/African American,Not Span/Hispanic,3,Elective,Skilled Nursing Home,2015,55,231,422,10,2,Major
+979,50 to 69,100,F,Other Race,Not Span/Hispanic,8,Emergency,Home w/ Home Health Services,2015,238,142,711,18,3,Moderate
+980,30 to 49,104,F,White,Spanish/Hispanic,4,Elective,Home or Self Care,2015,96,43,163,5,3,Moderate
+981,18 to 29,104,F,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,95,2,22,1,1,Minor
+982,18 to 29,OOS,M,Other Race,Not Span/Hispanic,3,Elective,Home or Self Care,2015,47,9,21,1,1,Minor
+983,30 to 49,113,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,3,310,8,1,Minor
+984,70 or Older,107,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,149,99,261,7,2,Minor
+985,50 to 69,OOS,F,White,Not Span/Hispanic,1,Elective,Home or Self Care,2015,205,158,321,8,1,Minor
+986,30 to 49,105,F,White,Not Span/Hispanic,1,Elective,Home w/ Home Health Services,2015,24,175,362,9,1,Moderate
+987,18 to 29,100,M,Multi-racial,Not Span/Hispanic,7,Urgent,Inpatient Rehabilitation Facility,2015,3,216,724,18,3,Major
+988,70 or Older,105,M,Other Race,Not Span/Hispanic,2,Emergency,Home or Self Care,2015,101,47,192,5,2,Minor
+989,50 to 69,100,F,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,111,188,24,1,1,Minor
+990,0 to 17,100,M,Other Race,Spanish/Hispanic,2,Newborn,Home or Self Care,2015,218,220,640,15,1,Minor
+991,30 to 49,112,F,Other Race,Not Span/Hispanic,1,Elective,Home or Self Care,2015,25,124,512,13,2,Minor
+992,50 to 69,100,M,White,Spanish/Hispanic,1,Elective,Home or Self Care,2015,114,61,173,5,2,Minor
+993,70 or Older,113,F,Other Race,Spanish/Hispanic,1,Elective,Home or Self Care,2015,81,9,21,1,1,Minor
+994,50 to 69,100,M,White,Not Span/Hispanic,3,Elective,Home w/ Home Health Services,2015,203,152,302,8,1,Minor
+995,50 to 69,113,F,Black/African American,Not Span/Hispanic,2,Elective,Home or Self Care,2015,46,124,519,13,1,Minor
+996,18 to 29,112,M,Other Race,Not Span/Hispanic,10,Elective,Inpatient Rehabilitation Facility,2015,35,1,21,1,2,Minor
+997,50 to 69,104,F,Black/African American,Spanish/Hispanic,8,Elective,Home or Self Care,2015,14,78,221,6,2,Minor
+998,30 to 49,104,F,Black/African American,Not Span/Hispanic,6,Elective,Home or Self Care,2015,47,99,260,7,1,Minor
+999,50 to 69,109,F,White,Not Span/Hispanic,2,Elective,Home or Self Care,2015,25,124,512,13,2,Minor
