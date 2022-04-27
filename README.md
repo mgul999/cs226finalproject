@@ -4,7 +4,7 @@
 ### Overview 
 
 This repository contains the code for our final project for CS 226r. For the project, we implemented multiple reconstruction attacks
-along with differentially private mechanisms. 
+along with differentially private mechanisms, and we ran a number of experiments in order to investigate how these attacks worked and how differential privacy can thwart them.
 
 ### Structure 
 * attacks.py: Implementations of the attacks from papers by Dinur and Nissim (2003) and Cohen and Nissim (2019).
