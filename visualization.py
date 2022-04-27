@@ -98,7 +98,7 @@ def recon_accuracy_tradeoff(df, title="Accuracy and Percent Recon vs. Epsilon"):
         y="mechanism_error",
         divide_on=None,
         xlabel="Epsilon",
-        ylabel="Mechanism Error",
+        ylabel="Mechanism Error (%)",
         legend_formatter=lambda x: f"Epsilon = {x}",
         title=title,
     )

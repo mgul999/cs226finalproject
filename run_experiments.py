@@ -27,10 +27,12 @@ def run_experiment(
     attacker=dinur_nissim,
     data_maker=generate_bit_data,
     attacker_args=default_dn_args,
+    trials = 1
 ):
 
     results_df = pd.DataFrame(
         columns=[
+            "trial",
             "n",
             *list(mech_args[0].keys()),
             "dn_epsilon",
@@ -40,10 +42,11 @@ def run_experiment(
         ]
     )
 
-    def make_entry(mech_arg, n, dn_epsilon, t, pc_reconstructed, mechanism_error):
+    def make_entry(trial, mech_arg, n, dn_epsilon, t, pc_reconstructed, mechanism_error):
         res = {x: [mech_arg[x]] for x in mech_arg.keys()}
         res.update(
             {
+                "trial" : trial,
                 "n": [n],
                 "dn_epsilon": [dn_epsilon],
                 "num_queries": [t],
@@ -53,37 +56,40 @@ def run_experiment(
         )
         return pd.DataFrame.from_dict(res)
 
-    total = len(ns) * len(mech_args) * len(t_generators)
+    total = trials * len(ns) * len(mech_args) * len(t_generators)
+
 
     if should_log:
         print(f"Running {total} experiments")
-
     so_far = 0
-    for n in ns:
-        for mech_arg in mech_args:
-            # New dataset and mech for each size/mechanism params pair
-            data = data_maker(n=n)
-            mech = mechanism_class(data, **mech_arg)
-            mech_acc = discover_accuracy(mech)
-            for t_generator in t_generators:
-                attacker_args["epsilon"] = dn_epsilon
-                result = attacker(mech, t_generator, **attacker_args)
-                # Lambdas are hard to log so we log its application. We can probably abstract this better.
-                t = int(t_generator(n))
 
-                # Append new results
-                entry = make_entry(
-                    mech_arg,
-                    n,
-                    dn_epsilon,
-                    t,
-                    percent_reconstructed(data, result),
-                    mech_acc,
-                )
-                results_df = pd.concat([results_df, entry], ignore_index=True)
-                so_far += 1
-                if should_log:
-                    print(f"Finished {so_far}/{total}")
+    for trial in range(trials):
+        for n in ns:
+            for mech_arg in mech_args:
+                # New dataset and mech for each size/mechanism params pair
+                data = data_maker(n=n)
+                mech = mechanism_class(data, **mech_arg)
+                mech_acc = discover_accuracy(mech)
+                for t_generator in t_generators:
+                    attacker_args["epsilon"] = dn_epsilon
+                    result = attacker(mech, t_generator, **attacker_args)
+                    # Lambdas are hard to log so we log its application. We can probably abstract this better.
+                    t = int(t_generator(n))
+
+                    # Append new results
+                    entry = make_entry(
+                        trial,
+                        mech_arg,
+                        n,
+                        dn_epsilon,
+                        t,
+                        percent_reconstructed(data, result),
+                        mech_acc,
+                    )
+                    results_df = pd.concat([results_df, entry], ignore_index=True)
+                    so_far += 1
+                    if should_log:
+                        print(f"Finished {so_far}/{total}")
 
     if output_filename:
         if should_log:
@@ -111,8 +117,16 @@ def plot_3d(df, filter_cond, x1, x2, y, labels, title):
     ax.set_ylabel(labels[1], fontsize=10)
     ax.set_zlabel(labels[2], fontsize=10)
     ax.set_title(title, fontsize=15)
+    plt.savefig("newest.pdf")
     plt.show()
     return ax
+
+def average_stats(df):
+    cols = list(df.columns)
+    cols.remove("trial")
+    cols.remove("percent_reconstructed")
+    cols.remove("mechanism_error")
+    return df.groupby(cols).mean().reset_index()
 
 
 def plot_single_x_multiple_subsets(
@@ -143,4 +157,5 @@ def plot_single_x_multiple_subsets(
     ax.set_title(title, fontsize=15)
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
+    plt.savefig("newest.pdf")
     return ax
