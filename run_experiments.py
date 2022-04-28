@@ -103,6 +103,13 @@ def read_results(filename):
     return pd.read_csv(filename, index_col=0)
 
 
+def gensym():
+    gensym.gensym_counter += 1
+    return gensym.gensym_counter
+
+gensym.gensym_counter = 0
+
+
 # General plotting functions
 def plot_3d(df, filter_cond, x1, x2, y, labels, title):
     """
@@ -117,7 +124,7 @@ def plot_3d(df, filter_cond, x1, x2, y, labels, title):
     ax.set_ylabel(labels[1], fontsize=10)
     ax.set_zlabel(labels[2], fontsize=10)
     ax.set_title(title, fontsize=15)
-    plt.savefig("newest.pdf")
+    plt.savefig(f"newest{gensym()}.pdf")
     plt.show()
     return ax
 
@@ -157,5 +164,5 @@ def plot_single_x_multiple_subsets(
     ax.set_title(title, fontsize=15)
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
-    plt.savefig("newest.pdf")
+    plt.savefig(f"newest{gensym()}.pdf")
     return ax
